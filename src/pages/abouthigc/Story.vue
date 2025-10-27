@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
-      <div class="grid grid-cols-1 md:grid-cols-2 py-4 mt-6">
+    <div class="container mx-auto md:px-20 px-8 md:my-10 my-4">
+      <div class="grid grid-cols-1 md:grid-cols-2 md:py-4 md:mt-6">
         <div>
           <h1 class="font-neue md:text-[56px] text-[30px] md:leading-[4rem]">
             Leading Healthcare Consulting Nigeria
@@ -32,32 +32,32 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="text-center rounded-2xl">
           <img
-            src="@/assets/HIGCImages/Frame1.png"
+            src="/public/HIGCImages/Frame1.png"
             alt="HIGC image"
-            class="w-[360px] w-full md:h-[560px] h-auto object-container md:object-cover rounded-2xl"
+            class="w-full md:h-[560px] h-auto object-container rounded-2xl"
           />
         </div>
         <div class="text-center">
           <div class="text-center rounded-2xl">
             <img
-              src="@/assets/HIGCImages/Frame2.png"
+              src="/public/HIGCImages/Frame2.png"
               alt="HIGC image"
-              class="w-[360px] w-full md:h-[270px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[360px] w-full md:h-[270px] h-auto object-container rounded-2xl"
             />
           </div>
           <div class="text-center rounded-2xl mt-6">
             <img
-              src="@/assets/HIGCImages/Frame3.png"
+              src="/public/HIGCImages/Frame3.png"
               alt="HIGC image"
-              class="w-[360px] w-full md:h-[270px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[360px] w-full md:h-[270px] h-auto object-container rounded-2xl"
             />
           </div>
         </div>
         <div class="text-center rounded-2xl">
           <img
-            src="@/assets/HIGCImages/Frame10.png"
+            src="/public/HIGCImages/Frame10.png"
             alt="HIGC image"
-            class="w-[360px] w-full md:h-[560px] h-auto object-container md:object-cover rounded-2xl"
+            class="w-[360px] w-full md:h-[560px] h-auto object-container rounded-2xl"
           />
         </div>
       </div>
@@ -88,9 +88,9 @@
         </BaseButton>
         <div class="text-center rounded-2xl pt-10">
           <img
-            src="/src/assets/HIGCImages/Image-9.png"
+            src="/public/HIGCImages/Image-9.png"
             alt="HIGC image"
-            class="w-full md:h-[560px] h-auto object-container md:object-cover rounded-2xl"
+            class="w-full md:h-[560px] h-auto object-container rounded-2xl"
           />
         </div>
       </div>

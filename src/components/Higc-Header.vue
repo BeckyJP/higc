@@ -3,6 +3,10 @@
     <nav
       class="flex items-center justify-between text-base max-w-7xl mx-auto px-4 md:px-8 py-6"
     >
+      <span class="md:hidden block"
+        ><img src="/public/images/icons/logo.png" alt="HIGC image" class="w-12"
+      /></span>
+
       <button
         class="md:hidden flex items-center justify-center p-2 rounded-md text-gray-600 hover:bg-gray-100 transition"
         @click="toggleMenu"
@@ -120,25 +124,10 @@
         </li>
       </ul>
       <!-- Right: Button -->
-      <div class="flex-shrink-0">
-        <a
-          href="#book"
-          class="flex items-center gap-2 text-[16px] bg-primary font-neue text-white px-4 py-3 rounded-full font-medium hover:bg-primary/90 transition whitespace-nowrap"
-        >
-          Book Appointment
-          <svg
-            width="18"
-            height="18"
-            viewBox="0 0 20 20"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M17.3172 10.4422L11.6922 16.0672C11.5749 16.1845 11.4159 16.2503 11.25 16.2503C11.0841 16.2503 10.9251 16.1845 10.8078 16.0672C10.6905 15.9499 10.6247 15.7909 10.6247 15.625C10.6247 15.4591 10.6905 15.3001 10.8078 15.1828L15.3664 10.625H3.125C2.95924 10.625 2.80027 10.5592 2.68306 10.4419C2.56585 10.3247 2.5 10.1658 2.5 10C2.5 9.83424 2.56585 9.67527 2.68306 9.55806C2.80027 9.44085 2.95924 9.375 3.125 9.375H15.3664L10.8078 4.81719C10.6905 4.69991 10.6247 4.54085 10.6247 4.375C10.6247 4.20915 10.6905 4.05009 10.8078 3.93281C10.9251 3.81554 11.0841 3.74965 11.25 3.74965C11.4159 3.74965 11.5749 3.81554 11.6922 3.93281L17.3172 9.55781C17.3753 9.61586 17.4214 9.68479 17.4529 9.76066C17.4843 9.83654 17.5005 9.91787 17.5005 10C17.5005 10.0821 17.4843 10.1635 17.4529 10.2393C17.4214 10.3152 17.3753 10.3841 17.3172 10.4422Z"
-              fill="white"
-            />
-          </svg>
-        </a>
+      <div class="flex-shrink-0 hidden md:block" d>
+        <BaseButton variant="primary" show-arrow icon-position="right">
+          <router-link to="/contact-us">Book Appointment </router-link>
+        </BaseButton>
       </div>
       <div
         v-if="isOpen"
@@ -187,7 +176,6 @@
                   />
                 </svg>
               </button>
-
               <transition name="accordion">
                 <div
                   v-if="openIndex === index && item.dropdown && item.dropdown.length"
@@ -207,6 +195,9 @@
               </transition>
             </li>
           </ul>
+          <BaseButton>
+            <router-link to="/contact-us">Book Appointment</router-link>
+          </BaseButton>
         </div>
       </transition>
     </nav>
@@ -215,6 +206,7 @@
 
 <script setup>
 import { ref } from "vue";
+import BaseButton from "./base/BaseButton.vue";
 const isOpen = ref(false);
 const toggleMenu = () => (isOpen.value = !isOpen.value);
 
