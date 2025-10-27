@@ -88,7 +88,7 @@
         </BaseButton>
         <div class="text-center rounded-2xl pt-10">
           <img
-            src="@/assets/HIGCImages/image-9.png"
+            src="/src/assets/HIGCImages/Image-9.png"
             alt="HIGC image"
             class="w-full md:h-[560px] h-auto object-container md:object-cover rounded-2xl"
           />
