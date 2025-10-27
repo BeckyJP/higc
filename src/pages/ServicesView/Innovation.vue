@@ -20,21 +20,21 @@
       <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr_2fr] gap-4">
         <div class="text-center rounded-2xl">
           <img
-            src="/public/HIGCImages/Frame17.png"
+            src="/HIGCImages/Frame17.png"
             alt="HIGC image"
             class="w-[300px] w-full md:h-[600px] h-auto object-container rounded-2xl"
           />
         </div>
         <div class="text-center">
           <img
-            src="/public/HIGCImages/Frame18.png"
+            src="/HIGCImages/Frame18.png"
             alt="HIGC image"
             class="w-[497px] w-full md:h-[600px] h-auto object-container rounded-2xl"
           />
         </div>
         <div class="text-center rounded-2xl">
           <img
-            src="/public/HIGCImages/Frame19.png"
+            src="/HIGCImages/Frame19.png"
             alt="HIGC image"
             class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
@@ -57,7 +57,7 @@
           </p>
           <div class="mt-6">
             <img
-              src="/public/HIGCImages/Frame20.png"
+              src="/HIGCImages/Frame20.png"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
@@ -78,7 +78,7 @@
         <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
           <div class="">
             <img
-              src="/public/HIGCImages/Frame21.png"
+              src="/HIGCImages/Frame21.png"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />

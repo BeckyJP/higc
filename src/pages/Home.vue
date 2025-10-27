@@ -33,7 +33,7 @@
         <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] mt-8 gap-4">
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="../../public/images/home/higc3.png"
+              src="/images/home/higc3.png"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -48,7 +48,7 @@
 
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="../../public/images/home/higc2.png"
+              src="/images/home/higc2.png"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -64,7 +64,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:py-4 mt-6">
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="../../public/images/home/higc4.png"
+              src="/images/home/higc4.png"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -81,7 +81,7 @@
 
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="../../public/images/home/higc-treat.png"
+              src="/images/home/higc-treat.png"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -97,7 +97,7 @@
           </div>
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="../../public/images/home/higc-drugs.png"
+              src="/images/home/higc-drugs.png"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -129,7 +129,7 @@
         your creativity and elevate your work.
       </p>
       <img
-        src="../../public/images/home/higc1.png"
+        src="/images/home/higc1.png"
         alt="HIGC image"
         class="w-full h-auto object-container md:object-cover"
       />
@@ -229,7 +229,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="../../public/images/home/ceo.png"
+              src="/images/home/ceo.png"
               alt="HIGC image"
               class="w-full h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -261,7 +261,7 @@
             </p>
           </div>
           <img
-            src="../../public/images/home/higc-f.png"
+            src="/images/home/higc-f.png"
             alt="HIGC image"
             class="w-[360px] md:h-[260px] h-auto object-container md:object-cover rounded-b-2xl"
           />
@@ -295,7 +295,7 @@
             </p>
           </div>
           <img
-            src="../../public/images/home/ceo.png"
+            src="/images/home/ceo.png"
             alt="HIGC image"
             class="w-[360px] h-[260px] object-container md:object-cover rounded-b-2xl"
           />

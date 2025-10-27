@@ -41,7 +41,7 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div>
             <img
-              src="/public/HIGCImages/products/Product1.png"
+              src="/HIGCImages/products/Product1.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
@@ -51,7 +51,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product2.png"
+              src="/HIGCImages/products/Product2.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -63,7 +63,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product3.png"
+              src="/HIGCImages/products/Product3.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -73,7 +73,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product4.png"
+              src="/HIGCImages/products/Product4.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -83,7 +83,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product5.png"
+              src="/HIGCImages/products/Product5.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -95,7 +95,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product6.png"
+              src="/HIGCImages/products/Product6.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -105,7 +105,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product7.png"
+              src="/HIGCImages/products/Product7.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -117,7 +117,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product8.png"
+              src="/HIGCImages/products/Product8.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -129,7 +129,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product9.png"
+              src="/HIGCImages/products/Product9.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -141,7 +141,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product10.png"
+              src="/HIGCImages/products/Product10.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -171,7 +171,7 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div>
             <img
-              src="/public/HIGCImages/products/Product11.png"
+              src="/HIGCImages/products/Product11.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
@@ -183,7 +183,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product12.png"
+              src="/HIGCImages/products/Product12.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -195,7 +195,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product13.png"
+              src="/HIGCImages/products/Product13.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -205,7 +205,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product14.png"
+              src="/HIGCImages/products/Product14.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -215,7 +215,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product15.png"
+              src="/HIGCImages/products/Product15.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -227,7 +227,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product16.png"
+              src="/HIGCImages/products/Product16.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -239,7 +239,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product17.png"
+              src="/HIGCImages/products/Product17.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -249,7 +249,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product18.png"
+              src="/HIGCImages/products/Product18.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -261,7 +261,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product19.png"
+              src="/HIGCImages/products/Product19.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -271,7 +271,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product20.png"
+              src="/HIGCImages/products/Product20.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -281,7 +281,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product21.png"
+              src="/HIGCImages/products/Product21.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -293,7 +293,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product22.png"
+              src="/HIGCImages/products/Product22.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -303,7 +303,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Product23.png"
+              src="/HIGCImages/products/Product23.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -313,7 +313,7 @@
           </div>
           <div class="">
             <img
-              src="/public/HIGCImages/products/Product24.png"
+              src="/HIGCImages/products/Product24.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -323,7 +323,7 @@
           </div>
           <div class="">
             <img
-              src="/public/HIGCImages/products/Products23.png"
+              src="/HIGCImages/products/Products23.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -333,7 +333,7 @@
           </div>
           <div class="">
             <img
-              src="/public/HIGCImages/products/Product25.png"
+              src="/HIGCImages/products/Product25.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -365,7 +365,7 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div>
             <img
-              src="/public/HIGCImages/products/safety1.png"
+              src="/HIGCImages/products/safety1.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
@@ -375,7 +375,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety2.png"
+              src="/HIGCImages/products/safety2.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -385,7 +385,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety3.png"
+              src="/HIGCImages/products/safety3.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -397,7 +397,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety4.png"
+              src="/HIGCImages/products/safety4.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -409,7 +409,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety5.png"
+              src="/HIGCImages/products/safety5.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -419,7 +419,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety6.png"
+              src="/HIGCImages/products/safety6.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -429,7 +429,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/safety7.png"
+              src="/HIGCImages/products/safety7.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -457,7 +457,7 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div>
             <img
-              src="/public/HIGCImages/products/Equ1.png"
+              src="/HIGCImages/products/Equ1.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
@@ -469,7 +469,7 @@
           </div>
           <div>
             <img
-              src="/public/HIGCImages/products/Equ2.png"
+              src="/HIGCImages/products/Equ2.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />

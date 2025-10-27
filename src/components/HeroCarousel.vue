@@ -22,9 +22,9 @@
 import { ref, onMounted, onBeforeUnmount } from "vue";
 
 const slides = ref([
-  "../HIGCImages/Image-5.png",
-  "../HIGCImages/Frame21.png",
-  "../HIGCImages/Frame24.png",
+  "/HIGCImages/Image-5.png",
+  "/HIGCImages/Frame21.png",
+  "/HIGCImages/Frame24.png",
 ]);
 
 const currentIndex = ref(0);

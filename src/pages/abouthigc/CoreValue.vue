@@ -19,7 +19,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="../HIGCImages/card1.png"
+              src="/HIGCImages/card1.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
@@ -58,7 +58,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="../HIGCImages/card2.png"
+              src="/HIGCImages/card2.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -93,7 +93,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="../HIGCImages/card3.png"
+              src="/HIGCImages/card3.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -128,7 +128,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="../HIGCImages/card4.png"
+              src="/HIGCImages/card4.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -167,7 +167,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="../HIGCImages/card5.png"
+              src="/HIGCImages/card5.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -204,7 +204,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="../HIGCImages/card6.png"
+              src="/HIGCImages/card6.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -256,7 +256,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="../HIGCImages/card7.png"
+              src="/HIGCImages/card7.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />

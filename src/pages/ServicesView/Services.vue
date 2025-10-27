@@ -25,7 +25,7 @@
     <div class="container mx-auto md:px-20 my-10 px-8">
       <div class="rounded-2xl">
         <img
-          src="/public/HIGCImages/Image-4.png"
+          src="/HIGCImages/Image-4.png"
           alt="HIGC image"
           class="w-full object-container md:object-cover rounded-2xl"
         />
@@ -50,7 +50,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/public/HIGCImages/card1.png"
+              src="/HIGCImages/card1.png"
               alt="HIGC image"
               class="object-container rounded-t-2xl"
             />
@@ -82,7 +82,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/public/HIGCImages/card2.png"
+              src="/HIGCImages/card2.png"
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
@@ -114,7 +114,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/public/HIGCImages/card3.png"
+              src="/HIGCImages/card3.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -145,7 +145,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/public/HIGCImages/card4.png"
+              src="/HIGCImages/card4.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -177,7 +177,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/public/HIGCImages/card5.png"
+              src="/HIGCImages/card5.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />

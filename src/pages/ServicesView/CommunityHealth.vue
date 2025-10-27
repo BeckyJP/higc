@@ -20,21 +20,21 @@
       <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr_2fr] gap-4">
         <div class="text-center rounded-2xl">
           <img
-            src="/public/HIGCImages/Frame4.png"
+            src="/HIGCImages/Frame4.png"
             alt="HIGC image"
             class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
         </div>
         <div class="text-center">
           <img
-            src="/public/HIGCImages/Frame5.png"
+            src="/HIGCImages/Frame5.png"
             alt="HIGC image"
             class="w-[497px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
         </div>
         <div class="text-center rounded-2xl">
           <img
-            src="/public/HIGCImages/Frame10.png"
+            src="/HIGCImages/Frame10.png"
             alt="HIGC image"
             class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
@@ -57,7 +57,7 @@
         <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
           <div class="">
             <img
-              src="/public/HIGCImages/Frame9.png"
+              src="/HIGCImages/Frame9.png"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
@@ -102,7 +102,7 @@
         <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
           <div class="">
             <img
-              src="/public/HIGCImages/Frame11.png"
+              src="/HIGCImages/Frame11.png"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />

@@ -4,7 +4,7 @@
       class="flex items-center justify-between text-base max-w-7xl mx-auto px-4 md:px-8 py-6"
     >
       <span class="md:hidden block"
-        ><img src="/public/images/icons/logo.png" alt="HIGC image" class="w-12"
+        ><img src="/images/icons/logo.png" alt="HIGC image" class="w-12"
       /></span>
 
       <button
