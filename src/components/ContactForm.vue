@@ -1,6 +1,6 @@
 <template>
   <section class="md:py-12 py-4">
-    <div class="container mx-auto md:px-20 px-6">
+    <div class="max-w-screen-xl mx-auto px-6">
       <h2 class="font-neue text-[32px] md:text-[40px]">
         Ready to Innovate Healthcare Together?
       </h2>

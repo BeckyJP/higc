@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout
-    ><div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    ><div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div>
         <p class="rounded-full text-sm w-20 px-4 py-1 mb-4 text-center bg-gray-200">
           Health

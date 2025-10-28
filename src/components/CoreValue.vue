@@ -1,6 +1,6 @@
 <template>
   <div class="my-4">
-    <h2 class="text-[40px] font-neue md:py-6">Mission & Vision</h2>
+    <h2 class="text-[40px] font-neue py-6">Mission & Vision</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="text-left rounded-2xl bg-darkGray p-6">
         <span
@@ -17,7 +17,7 @@
             />
           </svg>
         </span>
-        <p class="text-[18px] font-neue text-black md:mt-2">Our Mission</p>
+        <p class="text-[18px] font-neue text-black mt-2">Our Mission</p>
         <p class="text-[16px] text-gray-500">
           Provide comprehensive healthcare consulting Nigeria solutions through medical
           equipment supply, healthcare training programs, and occupational health

@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 my-10">
+    <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-1">
         <div class="">
           <small class="text-gray-500 font-mono text-base my-4">CORE VALUES</small>
@@ -15,7 +15,7 @@
       </div>
     </div>
     <section class="bg-whit md:py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-gray-100 rounded-2xl">
             <img
@@ -299,7 +299,7 @@
       </div>
     </section>
     <div class="bg-gray-100 my-10 py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto">
         <div class="pt-6 md:px-8 px-2">
           <small class="text-gray-500 font-mono uppercase text-sm my-4"
             >Living Our Values Daily</small

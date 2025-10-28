@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10">
       <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
         <div>
           <small class="font-mono uppercase text-gray-500"
@@ -16,7 +16,7 @@
         </div>
       </div>
     </div>
-    <div class="container mx-auto md:px-20 md:my-10 px-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 px-8">
       <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr_2fr] gap-4">
         <div class="text-center rounded-2xl">
           <img
@@ -34,7 +34,7 @@
         </div>
         <div class="text-center rounded-2xl">
           <img
-            src="/HIGCImages/Frame10.png"
+            src="/HIGCImages/Frame6.png"
             alt="HIGC image"
             class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
@@ -42,8 +42,8 @@
       </div>
     </div>
     <section class="bg-darkGray md:py-10 my-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <h1
             class="font-neue text-black md:text-[38px] py-3 mt-4 text-2xl md:leading-[2rem]"
           >
@@ -61,7 +61,7 @@
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
                 <p class="text-black text-base md:text-[18px] font-neue mt-2">
@@ -87,8 +87,8 @@
       </div>
     </section>
     <section class="bg-white md:py-6 my-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <h1
             class="font-neue text-black md:text-[38px] py-3 mt-4 text-2xl md:leading-[2rem]"
           >
@@ -106,7 +106,7 @@
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
                 <p class="text-black text-base md:text-[18px] font-neue mt-2">
@@ -131,7 +131,7 @@
       </div>
     </section>
     <div class="bg-darkGray py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black md:text-[40px] pt-4 text-2xl md:leading-[2rem]">
           Customized Solutions
         </h1>
@@ -149,7 +149,7 @@
       </div>
     </div>
     <div class="bg-white py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1
           class="font-neue text-black md:text-[40px] text-4xl mt-4 text-2xl md:leading-[2rem]"
         >

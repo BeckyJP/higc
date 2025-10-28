@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10">
       <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
         <div>
           <small class="font-mono uppercase text-gray-500"
@@ -17,34 +17,34 @@
         </div>
       </div>
     </div>
-    <div class="container mx-auto md:px-20 md:my-10 px-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10">
       <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr_2fr] gap-4">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame8.png"
             alt="HIGC image"
-            class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
+            class="w-[300px] w-full lg:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
         </div>
         <div class="text-center">
           <img
             src="/HIGCImages/Frame22.png"
             alt="HIGC image"
-            class="w-[497px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
+            class="w-[497px] w-full lg:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
         </div>
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame23.png"
             alt="HIGC image"
-            class="w-[300px] w-full md:h-[600px] h-auto object-container md:object-cover rounded-2xl"
+            class="lg:w-[300px] w-full lg:h-[600px] h-auto object-container md:object-cover rounded-2xl"
           />
         </div>
       </div>
     </div>
     <section class="bg-darkGray md:py-6 my-16">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <h1
             class="font-neue text-black md:text-[38px] py-3 mt-4 text-2xl md:leading-[2rem]"
           >
@@ -62,7 +62,7 @@
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 pt-4">
               <div class="p-4">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
                 <p class="text-base font-bold text-black md:text-[18px] font-neue mt-2">
@@ -105,7 +105,7 @@
       </div>
     </section>
     <div class="bg-white py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black md:text-[40px] text-3xl md:leading-[2rem]">
           Specialized Consulting Services
         </h1>
@@ -160,7 +160,7 @@
       </div>
     </div>
     <div class="bg-darkGray py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black md:text-[40px] pt-4 text-2xl md:leading-[2rem]">
           System Optimization
         </h1>
@@ -191,7 +191,7 @@
       </div>
     </div>
     <div class="bg-white py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black md:text-[40px] my-4 text-3xl md:leading-[2rem]">
           Why Choose HIGC?
         </h1>

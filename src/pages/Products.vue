@@ -1,9 +1,9 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-2 py-4 mt-6">
         <div>
-          <small class="font-mono uppercase text-gray-500">Main Services</small>
+          <small class="font-mono uppercase text-sm text-gray-500">Main Services</small>
           <h1 class="font-neue md:text-[56px] my-3 text-[30px] md:leading-[4rem]">
             Essential Medical Technology for
             <span class="text-[#ABABAB]">Superior Healthcare</span>
@@ -23,8 +23,8 @@
       </div>
     </div>
     <section class="bg-darkGray md:py-10 my-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-3"
             >Stay Equipped</small
           >
@@ -153,8 +153,8 @@
       </div>
     </section>
     <section class="bg-white md:py-10 my-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-3"
             >Stay Stocked</small
           >
@@ -347,8 +347,8 @@
       </div>
     </section>
     <section class="bg-darkGray md:py-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-3"
             >Stay Protected</small
           >
@@ -441,8 +441,8 @@
       </div>
     </section>
     <div class="bg-white md:py-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-3">Stay Ready</small>
           <h1
             class="font-neue text-black md:text-[40px] py-3 mt-2 text-2xl md:leading-[2rem]"
@@ -481,8 +481,8 @@
       </div>
     </div>
     <section class="bg-darkGray md:py-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-3"
             >PLACES WE HAVE BEEN RECOGNISED
           </small>
@@ -537,7 +537,6 @@
         </div>
       </div>
     </section>
-
     <div class="bg-white mt-10">
       <ContactForm />
     </div>

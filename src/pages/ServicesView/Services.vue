@@ -1,9 +1,9 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 my-10">
+    <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-4 mt-6">
         <div>
-          <small class="font-mono text-gray-500">Main Services</small>
+          <small class="font-mono text-sm text-gray-500">Main Services</small>
           <h1 class="font-neue md:text-[56px] text-2xl md:leading-[4rem]">
             Comprehensive Healthcare Solutions
             <span class="text-[#ABABAB]"> Across Nigeria </span>
@@ -22,7 +22,7 @@
         </div>
       </div>
     </div>
-    <div class="container mx-auto md:px-20 my-10 px-8">
+    <div class="max-w-screen-xl mx-auto px-6 my-10 px-8">
       <div class="rounded-2xl">
         <img
           src="/HIGCImages/Image-4.png"
@@ -32,8 +32,8 @@
       </div>
     </div>
     <section class="bg-darkGray md:py-10 my-10">
-      <div class="container mx-auto md:px-20 px-8">
-        <div class="md:px-8 px-2 mb-10">
+      <div class="max-w-screen-xl mx-auto px-6">
+        <div class="mb-10">
           <small class="text-gray-500 font-mono uppercase text-sm my-4"
             >Stay updated</small
           >
@@ -50,7 +50,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/HIGCImages/card1.png"
+              src="/HIGCImages/service1.png"
               alt="HIGC image"
               class="object-container rounded-t-2xl"
             />
@@ -82,7 +82,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/HIGCImages/card2.png"
+              src="/HIGCImages/service2.png"
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
@@ -114,7 +114,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/card3.png"
+              src="/HIGCImages/service3.png"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -145,9 +145,9 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/card4.png"
+              src="/HIGCImages/Frame24.png"
               alt="HIGC image"
-              class="h-auto object-container md:object-cover rounded-t-2xl"
+              class="h-auto object-container rounded-t-2xl"
             />
             <div class="p-4">
               <span
@@ -177,9 +177,9 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/card5.png"
+              src="/HIGCImages/service5.png"
               alt="HIGC image"
-              class="h-auto object-container md:object-cover rounded-t-2xl"
+              class="h-auto object-container rounded-t-2xl"
             />
             <div class="p-4">
               <span
@@ -210,7 +210,7 @@
       </div>
     </section>
     <div class="bg-white md:my-10 pb-6">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h1
           class="font-neue text-black md:text-[40px] md:py-6 mt-4 text-2xl md:leading-[2rem]"
         >

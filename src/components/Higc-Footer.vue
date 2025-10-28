@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-white pt-12">
-    <div class="container mx-auto md:px-20 px-8 md:py-12 py-4">
+    <div class="max-w-screen-xl mx-auto px-6 md:py-12 py-4">
       <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr]">
         <div>
           <span class="py-4">

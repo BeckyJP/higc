@@ -1,14 +1,14 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-[1fr_3fr] py-4 mt-6">
         <div class="my-4 md:my-0">
-          <h3 class="md:text-[40px] text-3xl leading-[3rem] font-neue">Privacy Policy</h3>
+          <h3 class="md:text-[56px] text-3xl leading-[4rem] font-neue">Privacy Policy</h3>
           <small class="font-mono text-gray-500"> Last updated: Jan 2025 </small>
         </div>
         <div>
           <div>
-            <h3 class="font-neue text-xl">1. Introduction</h3>
+            <h3 class="font-neue text-xl mt-4">1. Introduction</h3>
             <p class="text-base leading-8 text-gray-500 my-4 md:mr-[16rem]">
               HIGC Health Consultants ("HIGC," "we," "us," or "our") is committed to
               protecting the privacy and confidentiality of personal information provided
@@ -229,8 +229,9 @@
             <h3 class="font-neue text-xl">11. Changes to This Privacy Policy</h3>
             <p class="text-base font-normal leading-8 text-gray-500 mt-2">
               We may update this Privacy Policy periodically. Changes will be posted on
-              our website with <br/> the effective date. Continued use of our services
-              constitutes acceptance of any changes.
+              our website with <br />
+              the effective date. Continued use of our services constitutes acceptance of
+              any changes.
             </p>
           </div>
         </div>

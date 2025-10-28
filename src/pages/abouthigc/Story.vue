@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-4">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-4">
       <div class="grid grid-cols-1 md:grid-cols-2 md:py-4 md:mt-6">
         <div>
           <h1 class="font-neue md:text-[56px] text-[30px] md:leading-[4rem]">
@@ -28,7 +28,7 @@
         <PartnersIcon />
       </div>
     </div>
-    <div class="container mx-auto md:px-20 px-8">
+    <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="text-center rounded-2xl">
           <img

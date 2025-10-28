@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-1 py-4 mt-6">
         <div>
           <small class="text-gray-500 font-mono text-sm">MEET THE TEAM</small>
@@ -13,7 +13,7 @@
           <img
             src="/HIGCImages/Frame28.png"
             alt="HIGC image"
-            class="w-[360px] w-full h-[450px] my-6 object-container md:object-cover rounded-2xl"
+            class="w-[360px] lg:h-[440px] h-auto my-6 object-container rounded-2xl"
           />
           <p class="md:text-[24px] text-[16px] font-neue font-semibold">
             Dr. Owen Omo-Ojo (MD, MPH)
@@ -23,14 +23,14 @@
       </div>
     </div>
     <section class="bg-gray-100 py-10">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <h2 class="text-[40px] py-6 text-black font-neue">Our Growing Team</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div class="rounded-2xl">
             <img
               src="/HIGCImages/Team1.png"
               alt="HIGC image"
-              class="w-[340px] w-full md:h-[440px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Peter Odiase</p>
@@ -41,7 +41,7 @@
             <img
               src="/HIGCImages/Team2.png"
               alt="HIGC image"
-              class="w-[340px] w-full md:h-[440px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Samuel Gbiaye</p>
@@ -54,7 +54,7 @@
             <img
               src="/HIGCImages/Team3.png"
               alt="HIGC image"
-              class="w-[340px] w-full md:h-[440px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Celestine Omin</p>
@@ -65,7 +65,7 @@
             <img
               src="/HIGCImages/Team4.png"
               alt="HIGC image"
-              class="w-[340px] w-full md:h-[440px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Jerome Uzoka</p>
@@ -76,7 +76,7 @@
             <img
               src="/HIGCImages/Team5.png"
               alt="HIGC image"
-              class="w-[340px] w-full md:h-[440px] h-auto object-container md:object-cover rounded-2xl"
+              class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Festus Okubor</p>
@@ -86,7 +86,7 @@
         </div>
       </div>
     </section>
-    <div class="container mx-auto md:px-20 px-8">
+    <div class="max-w-screen-xl mx-auto px-6">
       <div class="grid grid-cols-1 md:grid-cols-1 py-4 mt-6">
         <div class="">
           <small class="text-gray-500 font-normal font-mono"

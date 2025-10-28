@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-[1fr_3fr] py-4 mt-6">
         <div>
           <h3 class="md:text-[40px] leading-[3rem] text-3xl font-neue">News & Updates</h3>

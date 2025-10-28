@@ -1,6 +1,6 @@
 <template>
   <DefaultLayout>
-    <section class="container mx-auto md:pt-16 px-8 md:px-20">
+    <section class="max-w-screen-xl mx-auto px-6 md:pt-16">
       <h2 class="text-[14px] text-gray-500 mb-4 font-mono">
         Innovating Healthcare, Impacting Lives
       </h2>
@@ -9,9 +9,10 @@
           <b class="text-black"> HIGC:</b> Bringing Quality Healthcare Solutions to
           Nigeria and Africa
         </h1>
-        <p class="text-[16px] text-gray-500 leading-relaxing md:pr-12 md:my-0 my-4">
+        <p class="text-[16px] text-gray-500 leading-relaxing md:my-0 my-4">
           From rural medical outreach to innovative healthcare manufacturing -
           comprehensive solutions led by award-winning public health expert Dr. Owen
+          <br />
           Omo-Ojo.
         </p>
         <div class="my-4">
@@ -23,7 +24,7 @@
       <HeroCarousel />
     </section>
     <section class="md:mt-10 md:py-10 py-4 bg-darkGray">
-      <div class="container mx-auto md:px-20 px-8">
+      <div class="max-w-screen-xl mx-auto px-6">
         <small class="font-mono uppercase py-4 text-gray-500">Stay updated</small>
         <h3 class="text-[40px] font-neue">What we do</h3>
         <p class="font-normal text-gray-500">
@@ -45,7 +46,6 @@
               </p>
             </div>
           </div>
-
           <div class="bg-gray-100 rounded-lg">
             <img
               src="/images/home/higc2.png"
@@ -103,7 +103,7 @@
             />
             <div class="p-4">
               <h3 class="font-neue text-[24px] md:py-3">
-                Medical Outreach & Social Impact
+                Medical Outreach & Social <br />Impact
               </h3>
               <p class="text-gray-500 leading-[1.5rem] text-base py-4">
                 Quality pharmaceuticals, diagnostic equipment, PPE, and safety solutions
@@ -119,7 +119,7 @@
         </div>
       </div>
     </section>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <small class="font-mono uppercase md:py-6 py-2 text-gray-500">Our Impact</small>
       <h3 class="md:text-[40px] text-2xl mt-2 md:mt-4 font-neue">
         Making a Difference Where It Matters Most
@@ -134,7 +134,7 @@
         class="w-full h-auto object-container md:object-cover"
       />
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 py-4 mt-6">
-        <div class="py-4 border-t-2 border-black">
+        <div class="py-4 border-t-4 border-black">
           <span
             ><svg
               width="36"
@@ -157,7 +157,7 @@
             across Africa.
           </p>
         </div>
-        <div class="md:p-4 border-t-2">
+        <div class="md:p-4 border-t-4">
           <span
             ><svg
               width="36"
@@ -180,7 +180,7 @@
             Nigerian states.
           </p>
         </div>
-        <div class="md:p-4 border-t-2">
+        <div class="md:p-4 border-t-4">
           <span
             ><svg
               width="36"
@@ -211,7 +211,7 @@
       </div>
     </div>
     <section class="mt-10 md:py-10 bg-darkGray">
-      <div class="container mx-auto md:px-20 px-4">
+      <div class="max-w-screen-xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="p-4">
             <h3 class="font-neue text-sm uppercase text-gray-500">Leadership</h3>
@@ -243,7 +243,7 @@
         </div>
       </div>
     </section>
-    <div class="container mx-auto md:px-20 px-8 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <h2 class="md:text-[40px] text-4xl font-neue">Why Partner With HIGC?</h2>
       <p class="text-gray-500 mt-4 md:mt-4">
         Stay ahead with curated insights, resources, tools, and more—handpicked to spark
@@ -253,9 +253,10 @@
         <div class="text-center bg-gray-100 rounded-2xl md:pt-10 pt-4">
           <div class="">
             <h3 class="font-neue text-[22px] md:px-16">
-              Impact-Driven Healthcare Solutions
+              Impact-Driven <br />
+              Healthcare Solutions
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] md:px-10 px-6 my-2">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px] md:px-10 px-6 my-4">
               We prioritize community impact and sustainable healthcare solutions over
               profit maximization
             </p>
@@ -263,12 +264,15 @@
           <img
             src="/images/home/higc-f.png"
             alt="HIGC image"
-            class="w-[360px] md:h-[260px] h-auto object-container md:object-cover rounded-b-2xl"
+            class="w-full max-w-full md:h-[260px] h-auto object-container rounded-b-2xl"
           />
         </div>
         <div class="text-center">
           <div class="bg-gray-100 rounded-2xl py-10">
-            <h3 class="font-neue text-[22px] px-16">Full-Spectrum Healthcare Services</h3>
+            <h3 class="font-neue text-[22px] px-16">
+              Full-Spectrum <br />
+              Healthcare Services
+            </h3>
             <p class="text-gray-500 leading-[1.5rem] text-[16px] md:px-10 mt-2">
               From rural medical outreach to advanced manufacturing, we cover the complete
               healthcare spectrum
@@ -287,17 +291,17 @@
         <div class="text-center bg-gray-100 rounded-2xl">
           <div>
             <h3 class="font-neue text-[22px] pt-10 md:px-12 px-6">
-              Award-Winning Leadership & Outcomes
+              Award-Winning <br />Leadership & Outcomes
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] px-10 py-2">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px] px-10 py-4 mb-3">
               Led by award-winning Dr. Owen Omo-Ojo with 14+ years of measurable
               healthcare impact
             </p>
           </div>
           <img
-            src="/images/home/ceo.png"
+            src="/images/home/ceo1.png"
             alt="HIGC image"
-            class="w-[360px] h-[260px] object-container md:object-cover rounded-b-2xl"
+            class="h-[260px] w-full object-container rounded-b-2xl"
           />
         </div>
       </div>

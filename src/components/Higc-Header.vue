@@ -1,7 +1,7 @@
 <template>
   <header class="bg-white sticky top-0 z-50">
     <nav
-      class="flex items-center justify-between text-base max-w-7xl mx-auto px-4 md:px-8 py-6"
+      class="flex items-center justify-between text-[18px] max-w-screen-xl mx-auto px-4 py-6"
     >
       <!-- Logo -->
       <span class="md:hidden block"
@@ -157,7 +157,7 @@
                 class="w-full text-left px-4 py-3 flex justify-between items-center hover:bg-blue-50"
                 @click="toggleDropdown(index)"
               >
-                <span>{{ item.name }}</span>
+                <router-link :to="item.link || '#'">{{ item.name }}</router-link>
                 <svg
                   v-if="item.dropdown"
                   xmlns="http://www.w3.org/2000/svg"
@@ -239,20 +239,7 @@ const navItems = [
     ],
   },
   { name: "Products", link: "/products", dropdown: null },
-  {
-    name: "Our Impact",
-    dropdown: [
-      { label: "Case Studies", link: "#" },
-      { label: "Testimonials", link: "#" },
-    ],
-  },
-  {
-    name: "Partners & Training",
-    dropdown: [
-      { label: "Become a Partner", link: "#" },
-      { label: "Training Programs", link: "#" },
-    ],
-  },
+
   { name: "News & Updates", link: "/news", dropdown: null },
   { name: "Contact Us", link: "/contact-us", dropdown: null },
 ];
