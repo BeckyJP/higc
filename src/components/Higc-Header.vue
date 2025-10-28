@@ -3,49 +3,13 @@
     <nav
       class="flex items-center justify-between text-base max-w-7xl mx-auto px-4 md:px-8 py-6"
     >
+      <!-- Logo -->
       <span class="md:hidden block"
         ><img src="/images/icons/logo.png" alt="HIGC image" class="w-12"
       /></span>
 
-      <button
-        class="md:hidden flex items-center justify-center p-2 rounded-md text-gray-600 hover:bg-gray-100 transition"
-        @click="toggleMenu"
-      >
-        <svg
-          v-if="!isOpen"
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-6 w-6"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M4 6h16M4 12h16M4 18h16"
-          />
-        </svg>
-        <svg
-          v-else
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-6 w-6"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M6 18L18 6M6 6l12 12"
-          />
-        </svg>
-      </button>
-      <!-- Center: Navigation -->
-      <ul
-        class="hidden lg:flex items-center space-x-4 xl:space-x-6 font-medium text-gray-500"
-      >
+      <!-- Center Navigation -->
+      <ul class="hidden md:flex items-center space-x-6 text-gray-700 font-medium">
         <div class="flex space-x-2 items-center">
           <a href="/"
             ><svg
@@ -79,19 +43,16 @@
               </defs></svg
           ></a>
         </div>
-        <li v-for="item in navItems" :key="item.name" class="relative group">
-          <!-- Main link -->
-          <router-link
-            :to="item.link || '#'"
-            class="flex items-center space-x-1 hover:text-primary transition"
+        <li v-for="(item, index) in navItems" :key="index" class="relative">
+          <button
+            @click="toggleDropdown(index)"
+            class="flex items-center gap-1 hover:text-primary focus:outline-none"
           >
-            <span>{{ item.name }}</span>
-
-            <!-- Dropdown arrow -->
+            {{ item.name }}
             <svg
-              v-if="item.dropdown !== null"
+              v-if="item.dropdown"
               xmlns="http://www.w3.org/2000/svg"
-              class="h-4 w-4 text-gray-500 group-hover:text-primary transition"
+              class="w-4 h-4"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -103,67 +64,101 @@
                 d="M19 9l-7 7-7-7"
               />
             </svg>
-          </router-link>
+          </button>
 
-          <!-- Dropdown Menu -->
-          <div
-            v-if="item.dropdown && item.dropdown.length"
-            class="absolute left-0 hidden group-hover:block bg-white shadow-lg mt-2 rounded-lg w-60"
-          >
-            <ul class="py-2 text-gray-500">
-              <li v-for="(subItem, index) in item.dropdown" :key="index">
-                <router-link
-                  :to="subItem.link || '#'"
-                  class="block px-4 py-2 hover:bg-gray-100 hover:text-primary transition"
-                >
-                  {{ subItem.label }}
-                </router-link>
-              </li>
-            </ul>
-          </div>
+          <!-- Dropdown -->
+          <transition name="fade">
+            <div
+              v-if="openDropdown === index && item.dropdown"
+              class="absolute left-0 mt-2 bg-white shadow-lg rounded-lg w-60 z-20"
+            >
+              <ul class="py-2 text-gray-600">
+                <li v-for="(subItem, subIndex) in item.dropdown" :key="subIndex">
+                  <a :href="subItem.link" class="block px-4 py-2 hover:text-primary">
+                    {{ subItem.label }}
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </transition>
         </li>
       </ul>
-      <!-- Right: Button -->
+
+      <!-- Right Button -->
       <div class="flex-shrink-0 hidden md:block" d>
         <BaseButton variant="primary" show-arrow icon-position="right">
           <router-link to="/contact-us">Book Appointment </router-link>
         </BaseButton>
       </div>
-      <div
-        v-if="isOpen"
-        @click="toggleMenu"
-        class="fixed inset-0 bg-black bg-opacity-40 z-40 lg:hidden"
-      ></div>
 
-      <!-- Sidebar Menu -->
-      <transition
-        enter-active-class="transform transition ease-in-out duration-300"
-        enter-from-class="opacity-0 -translate-x-full"
-        enter-to-class="opacity-100 translate-x-0"
-        leave-active-class="transform transition ease-in-out duration-300"
-        leave-from-class="opacity-100 translate-x-0"
-        leave-to-class="opacity-0 -translate-x-full"
-        name="slide-sidebar"
+      <!-- Hamburger for Mobile -->
+      <button
+        @click="toggleMenu"
+        class="md:hidden text-gray-700 hover:text-primary-700 focus:outline-none"
       >
-        <div
-          v-if="isOpen"
-          class="fixed top-0 right-0 w-64 h-full bg-white shadow-lg z-50 p-6 flex flex-col space-y-6"
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
         >
-          <ul class="flex flex-col space-y-3 font-medium text-gray-600">
-            <li v-for="(item, index) in navItems" :key="item.name" class="pb-2">
-              <button
-                class="w-full flex items-center justify-between hover:text-primary transition"
-                @click="toggleAccordion(index)"
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"
+          />
+        </svg>
+      </button>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <!-- Mobile Sidebar -->
+    <transition name="slide">
+      <div v-if="isOpen" class="fixed inset-0 z-50 flex md:hidden">
+        <!-- Overlay -->
+        <div class="flex-1 bg-black bg-opacity-40" @click="toggleMenu"></div>
+
+        <!-- Sidebar Content -->
+        <div class="w-72 bg-white shadow-lg h-full flex flex-col">
+          <div
+            class="flex justify-between items-center px-4 py-4 border-b border-gray-200"
+          >
+            <h2 class="text-lg font-bold text-gray-800"></h2>
+            <button @click="toggleMenu" class="text-gray-700 hover:text-primary">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-6 h-6"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
               >
-                <router-link :to="item.link || '#'"
-                  ><span>{{ item.name }}</span></router-link
-                >
-                <!-- Arrow icon (rotates when open) -->
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M6 18L18 6M6 6l12 12"
+                />
+              </svg>
+            </button>
+          </div>
+
+          <ul class="flex-1 overflow-y-auto text-gray-700 font-medium">
+            <li
+              v-for="(item, index) in navItems"
+              :key="'mobile-' + index"
+              class="border-b border-gray-100"
+            >
+              <button
+                class="w-full text-left px-4 py-3 flex justify-between items-center hover:bg-blue-50"
+                @click="toggleDropdown(index)"
+              >
+                <span>{{ item.name }}</span>
                 <svg
-                  v-if="item.dropdown !== null"
+                  v-if="item.dropdown"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="h-4 w-4 transform transition-transform duration-300"
-                  :class="{ 'rotate-180': openIndex === index }"
+                  class="w-4 h-4"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
@@ -172,48 +167,48 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M19 9l-7 7-7-7"
+                    :d="openDropdown === index ? 'M5 15l7-7 7 7' : 'M19 9l-7 7-7-7'"
                   />
                 </svg>
               </button>
-              <transition name="accordion">
-                <div
-                  v-if="openIndex === index && item.dropdown && item.dropdown.length"
-                  class="mt-2 text-gray-500 space-y-2"
-                >
-                  <ul>
-                    <li v-for="(subItem, i) in item.dropdown" :key="i">
-                      <router-link
-                        :to="subItem.link"
-                        class="block py-1 hover:text-primary transition"
-                      >
-                        {{ subItem.label }}
-                      </router-link>
-                    </li>
-                  </ul>
-                </div>
-              </transition>
+
+              <!-- Mobile Dropdown -->
+              <ul v-if="item.dropdown && openDropdown === index" class="bg-gray-50">
+                <li v-for="(subItem, subIndex) in item.dropdown" :key="'sub-' + subIndex">
+                  <a :href="subItem.link" class="block px-8 py-2 hover:bg-blue-100">
+                    {{ subItem.label }}
+                  </a>
+                </li>
+              </ul>
             </li>
           </ul>
-          <BaseButton>
-            <router-link to="/contact-us">Book Appointment</router-link>
-          </BaseButton>
+
+          <!-- Bottom Button -->
+          <div class="p-4 border-t border-gray-200">
+            <BaseButton variant="primary" show-arrow icon-position="right" class="w-full">
+              <router-link to="/contact-us">Book Appointment</router-link>
+            </BaseButton>
+          </div>
         </div>
-      </transition>
-    </nav>
+      </div>
+    </transition>
   </header>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref } from "vue";
 import BaseButton from "./base/BaseButton.vue";
+
 const isOpen = ref(false);
-const toggleMenu = () => (isOpen.value = !isOpen.value);
+const openDropdown = ref<number | null>(null);
 
-const openIndex = ref(null);
+const toggleMenu = () => {
+  isOpen.value = !isOpen.value;
+  openDropdown.value = null;
+};
 
-const toggleAccordion = (index) => {
-  openIndex.value = openIndex.value === index ? null : index;
+const toggleDropdown = (index: number) => {
+  openDropdown.value = openDropdown.value === index ? null : index;
 };
 
 const navItems = [
@@ -258,7 +253,12 @@ const navItems = [
 </script>
 
 <style scoped>
-.group:hover .group-hover\:block {
-  display: block;
+.slide-enter-active,
+.slide-leave-active {
+  transition: transform 0.4s ease;
+}
+.slide-enter-from,
+.slide-leave-to {
+  transform: translateX(100%);
 }
 </style>
