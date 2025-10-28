@@ -49,7 +49,7 @@
             @click="toggleDropdown(index)"
             class="flex items-center gap-1 hover:text-primary focus:outline-none"
           >
-            <router-link :to="item.link">{{ item.name }}</router-link>
+            <router-link :to="item.link || '#'">{{ item.name }}</router-link>
             <svg
               v-if="item.dropdown"
               xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +76,7 @@
               <ul class="py-2 text-gray-600">
                 <li v-for="(subItem, subIndex) in item.dropdown" :key="subIndex">
                   <router-link
-                    :to="subItem.link"
+                    :to="subItem.link || '#'"
                     class="block px-4 py-2 hover:text-primary"
                   >
                     {{ subItem.label }}
@@ -117,7 +117,6 @@
       </button>
     </nav>
 
-    <!-- Mobile Menu -->
     <!-- Mobile Sidebar -->
     <transition name="slide">
       <div v-if="isOpen" class="fixed inset-0 z-50 flex md:hidden">
@@ -180,7 +179,7 @@
               <ul v-if="item.dropdown && openDropdown === index" class="bg-gray-50">
                 <li v-for="(subItem, subIndex) in item.dropdown" :key="'sub-' + subIndex">
                   <router-link
-                    :to="subItem.link"
+                    :to="subItem.link || '#'"
                     class="block px-8 py-2 hover:bg-blue-100"
                   >
                     {{ subItem.label }}
@@ -243,15 +242,15 @@ const navItems = [
   {
     name: "Our Impact",
     dropdown: [
-      { label: "Case Studies", link: "/impact/case-studies" },
-      { label: "Testimonials", link: "/impact/testimonials" },
+      { label: "Case Studies", link: "#" },
+      { label: "Testimonials", link: "#" },
     ],
   },
   {
     name: "Partners & Training",
     dropdown: [
-      { label: "Become a Partner", link: "/partners/become" },
-      { label: "Training Programs", link: "/partners/training" },
+      { label: "Become a Partner", link: "#" },
+      { label: "Training Programs", link: "#" },
     ],
   },
   { name: "News & Updates", link: "/news", dropdown: null },
