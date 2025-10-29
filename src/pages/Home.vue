@@ -250,50 +250,50 @@
         your creativity and elevate your work.
       </p>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
-        <div class="text-center bg-gray-100 rounded-2xl md:pt-10 pt-4">
-          <div class="">
-            <h3 class="font-neue text-[22px] md:px-16">
+        <div class="">
+          <div class="text-center bg-gray-100 rounded-t-2xl p-6">
+            <h3 class="font-neue text-[22px] py-4">
               Impact-Driven <br />
               Healthcare Solutions
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] md:px-10 px-6 my-4">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px]">
               We prioritize community impact and sustainable healthcare solutions over
               profit maximization
             </p>
           </div>
           <img
-            src="/images/home/higc-f.png"
+            src="/HIGCImages/Frames14.png"
             alt="HIGC image"
-            class="w-full max-w-full md:h-[260px] h-auto object-container rounded-b-2xl"
+            class="w-full h-[260px] object-container rounded-b-2xl"
           />
         </div>
         <div class="text-center">
-          <div class="bg-gray-100 rounded-2xl py-10">
-            <h3 class="font-neue text-[22px] px-16">
+          <div class="bg-gray-100 rounded-2xl p-6">
+            <h3 class="font-neue text-[22px]">
               Full-Spectrum <br />
               Healthcare Services
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] md:px-10 mt-2">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px] my-4">
               From rural medical outreach to advanced manufacturing, we cover the complete
               healthcare spectrum
             </p>
           </div>
           <div class="mt-3 bg-gray-100 rounded-2xl p-6">
-            <h3 class="font-neue text-[22px] py-3 md:px-10">
-              Nigerian Solutions for African Challenges
+            <h3 class="font-neue text-[22px] mt-2">
+              Nigerian Solutions for <br />African Challenges
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px]">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px] my-4">
               Nigerian-designed medical solutions that understand and address Africa's
               unique healthcare challenges
             </p>
           </div>
         </div>
-        <div class="text-center bg-gray-100 rounded-2xl">
-          <div>
-            <h3 class="font-neue text-[22px] pt-10 md:px-12 px-6">
+        <div class="text-center">
+          <div class="bg-gray-100 rounded-t-2xl p-6">
+            <h3 class="font-neue text-[22px]">
               Award-Winning <br />Leadership & Outcomes
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] px-10 py-4 mb-3">
+            <p class="text-gray-500 leading-[1.5rem] text-[16px] px-8">
               Led by award-winning Dr. Owen Omo-Ojo with 14+ years of measurable
               healthcare impact
             </p>
@@ -301,7 +301,7 @@
           <img
             src="/images/home/ceo1.png"
             alt="HIGC image"
-            class="h-[260px] w-full object-container rounded-b-2xl"
+            class="w-full h-[260px] object-container rounded-b-2xl"
           />
         </div>
       </div>
