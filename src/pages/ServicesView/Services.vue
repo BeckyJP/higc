@@ -25,7 +25,7 @@
     <div class="max-w-screen-xl mx-auto px-6 my-10 px-8">
       <div class="rounded-2xl">
         <img
-          src="/HIGCImages/Image-4.png"
+          src="/HIGCImages/Image-4.webp"
           alt="HIGC image"
           class="w-full object-container md:object-cover rounded-2xl"
         />
@@ -50,7 +50,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/HIGCImages/service1.png"
+              src="/HIGCImages/service1.webp"
               alt="HIGC image"
               class="object-container rounded-t-2xl"
             />
@@ -82,7 +82,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/HIGCImages/service2.png"
+              src="/HIGCImages/service2.webp"
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
@@ -114,7 +114,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/service3.png"
+              src="/HIGCImages/service3.webp"
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -145,7 +145,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/Frame24.png"
+              src="/HIGCImages/Frame24.webp"
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
@@ -177,7 +177,7 @@
           </div>
           <div class="rounded-2xl bg-gray-100">
             <img
-              src="/HIGCImages/service5.png"
+              src="/HIGCImages/service5.webp"
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />

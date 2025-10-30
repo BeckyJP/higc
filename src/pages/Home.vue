@@ -34,7 +34,7 @@
         <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] mt-8 gap-4">
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc3.png"
+              src="/images/home/higc3.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -48,7 +48,7 @@
           </div>
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc2.png"
+              src="/images/home/higc2.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -64,7 +64,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:py-4 mt-6">
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc4.png"
+              src="/images/home/higc4.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -81,7 +81,7 @@
 
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc-treat.png"
+              src="/images/home/higc-treat.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -97,7 +97,7 @@
           </div>
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc-drugs.png"
+              src="/images/home/higc-drugs.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -129,7 +129,7 @@
         your creativity and elevate your work.
       </p>
       <img
-        src="/images/home/higc1.png"
+        src="/images/home/higc1.webp"
         alt="HIGC image"
         class="w-full h-auto object-container md:object-cover"
       />
@@ -229,7 +229,7 @@
           </div>
           <div class="bg-gray-100 rounded-2xl">
             <img
-              src="/images/home/ceo.png"
+              src="/images/home/ceo.webp"
               alt="HIGC image"
               class="w-full h-auto object-container md:object-cover rounded-t-2xl"
             />
@@ -262,7 +262,7 @@
             </p>
           </div>
           <img
-            src="/HIGCImages/Frames14.png"
+            src="/HIGCImages/Frames14.webp"
             alt="HIGC image"
             class="w-full h-[260px] object-container rounded-b-2xl"
           />
@@ -279,7 +279,7 @@
             </p>
           </div>
           <div class="mt-3 bg-gray-100 rounded-2xl p-6">
-            <h3 class="font-neue text-[22px] mt-2">
+            <h3 class="font-neue text-[22px]">
               Nigerian Solutions for <br />African Challenges
             </h3>
             <p class="text-gray-500 leading-[1.5rem] text-[16px] my-4">
@@ -299,7 +299,7 @@
             </p>
           </div>
           <img
-            src="/images/home/ceo1.png"
+            src="/images/home/ceo1.webp"
             alt="HIGC image"
             class="w-full h-[260px] object-container rounded-b-2xl"
           />

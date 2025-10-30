@@ -4,7 +4,7 @@ import { createApp } from 'vue';
 import App from './App.vue';
 import router from './router';
 
-import '@splidejs/splide/css';
+import '@splidejs/splide/css'; // use this modern path (works best with Vite)
 import { Splide, SplideSlide } from '@splidejs/vue-splide';
 
 const app = createApp(App);

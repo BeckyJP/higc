@@ -17,7 +17,7 @@
         </p>
         <div>
           <img
-            src="/HIGCImages/card11.png"
+            src="/HIGCImages/card11.webp"
             alt="HIGC image"
             class="h-auto w-full object-container md:object-cover rounded-b"
           />

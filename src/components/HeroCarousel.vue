@@ -2,23 +2,23 @@
   <Splide :options="options" aria-label="My Favorite Images">
     <SplideSlide>
       <img
-        src="/HIGCImages/Image-5.png"
+        src="/HIGCImages/Image-5.webp"
         alt="Slide image"
         class="w-full h-[500px] rounded-xl object-cover"
       />
     </SplideSlide>
     <SplideSlide>
       <img
-        src="/HIGCImages/Frame21.png"
+        src="/HIGCImages/Frame21.webp"
         alt="Slide image"
         class="w-full h-[500px] rounded-xl object-cover"
       />
     </SplideSlide>
     <SplideSlide>
       <img
-        src="/HIGCImages/Frame22.png"
+        src="/HIGCImages/Frame22.webp"
         alt="Slide image"
-        class="w-full h-[500px] rounded-xl object-cover"
+        class="w-full md:h-[500px] rounded-xl object-cover"
       />
     </SplideSlide>
   </Splide>
@@ -30,7 +30,7 @@ import "@splidejs/splide/dist/css/splide.min.css";
 
 const options = {
   type: "loop",
-  padding: { left: "8rem", right: "8rem" }, // adds side padding
+  padding: { left: "5rem", right: "5rem" }, // adds side padding
   gap: "1rem",
   autoplay: true,
   pauseOnHover: true,

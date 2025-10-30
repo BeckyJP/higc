@@ -32,7 +32,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="text-center rounded-2xl">
           <img
-            src="/HIGCImages/Frame1.png"
+            src="/HIGCImages/Frame1.webp"
             alt="HIGC image"
             class="w-full md:h-[560px] h-auto object-container rounded-2xl"
           />
@@ -40,14 +40,14 @@
         <div class="text-center">
           <div class="text-center rounded-2xl">
             <img
-              src="/HIGCImages/Frame2.png"
+              src="/HIGCImages/Frame2.webp"
               alt="HIGC image"
               class="w-[360px] w-full md:h-[270px] h-auto object-container rounded-2xl"
             />
           </div>
           <div class="text-center rounded-2xl mt-6">
             <img
-              src="/HIGCImages/Frame3.png"
+              src="/HIGCImages/Frame3.webp"
               alt="HIGC image"
               class="w-[360px] w-full md:h-[270px] h-auto object-container rounded-2xl"
             />
@@ -55,7 +55,7 @@
         </div>
         <div class="text-center rounded-2xl">
           <img
-            src="/HIGCImages/Frame10.png"
+            src="/HIGCImages/Frame10.webp"
             alt="HIGC image"
             class="w-[360px] w-full md:h-[560px] h-auto object-container rounded-2xl"
           />
@@ -88,7 +88,7 @@
         </BaseButton>
         <div class="text-center rounded-2xl pt-10">
           <img
-            src="/HIGCImages/Image-9.png"
+            src="/HIGCImages/Image-9.webp"
             alt="HIGC image"
             class="w-full md:h-[560px] h-auto object-container rounded-2xl"
           />

@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
-      <div class="grid grid-cols-1 md:grid-cols-2 py-4 mt-6">
+      <div class="grid grid-cols-2 md:grid-cols-2 py-4 mt-6">
         <div>
           <small class="font-mono uppercase text-sm text-gray-500">Main Services</small>
           <h1 class="font-neue md:text-[56px] my-3 text-[30px] md:leading-[4rem]">
@@ -38,15 +38,17 @@
             efficient practice.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div>
             <img
               src="/HIGCImages/products/Product1.png"
               alt="HIGC image"
               class="object-container md:object-cover rounded-t-2xl"
             />
-            <div class="px-6 py-4">
-              <p class="text-[18px] text-black font-neue mt-2">BLS and ACLS Ambulances</p>
+            <div class="px-6 md:py-4">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                BLS and ACLS Ambulances
+              </p>
             </div>
           </div>
           <div>
@@ -56,7 +58,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 On-site Testing Machines
               </p>
             </div>
@@ -67,8 +69,10 @@
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
-            <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">BP monitors</p>
+            <div class="md:p-4">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                BP monitors
+              </p>
             </div>
           </div>
           <div>
@@ -78,7 +82,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Stethoscopes</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Stethoscopes
+              </p>
             </div>
           </div>
           <div>
@@ -88,7 +94,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Syringes, Needles, and Cannulas
               </p>
             </div>
@@ -100,7 +106,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Rapid Test Kits</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Rapid Test Kits
+              </p>
             </div>
           </div>
           <div>
@@ -110,7 +118,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Drug and Alcohol Test Kits
               </p>
             </div>
@@ -122,7 +130,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Hospital and diagnostic equipment
               </p>
             </div>
@@ -134,7 +142,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 CPAP, BIPAP Machines and Ventilators
               </p>
             </div>
@@ -146,7 +154,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Autoclaves</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Autoclaves
+              </p>
             </div>
           </div>
         </div>
@@ -168,7 +178,7 @@
             daily demands.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div>
             <img
               src="/HIGCImages/products/Product11.png"
@@ -176,7 +186,7 @@
               class="object-container md:object-cover rounded-t-2xl"
             />
             <div class="px-6 py-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Calibrated Maternity Drapes
               </p>
             </div>
@@ -188,7 +198,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Calibrated Maternity Trays
               </p>
             </div>
@@ -200,7 +210,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Physician Starter Kits</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Physician Starter Kits
+              </p>
             </div>
           </div>
           <div>
@@ -210,7 +222,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">First Aid Kits</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                First Aid Kits
+              </p>
             </div>
           </div>
           <div>
@@ -220,7 +234,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Nitrile Powder-Free Examination Gloves
               </p>
             </div>
@@ -232,7 +246,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Latex Powdered Examination Gloves
               </p>
             </div>
@@ -244,7 +258,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Sterile Surgical Gloves</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Sterile Surgical Gloves
+              </p>
             </div>
           </div>
           <div>
@@ -254,7 +270,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Isolation and Surgical Gowns
               </p>
             </div>
@@ -266,7 +282,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Biohazard Spill Kits</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Biohazard Spill Kits
+              </p>
             </div>
           </div>
           <div>
@@ -276,7 +294,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Biohazard Bags</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Biohazard Bags
+              </p>
             </div>
           </div>
           <div>
@@ -286,7 +306,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Biohazard Sharps Container
               </p>
             </div>
@@ -298,7 +318,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Disinfectant Products</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Disinfectant Products
+              </p>
             </div>
           </div>
           <div>
@@ -308,7 +330,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Thermometers</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Thermometers
+              </p>
             </div>
           </div>
           <div class="">
@@ -318,7 +342,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Face masks</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Face masks
+              </p>
             </div>
           </div>
           <div class="">
@@ -328,7 +354,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Face shields</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Face shields
+              </p>
             </div>
           </div>
           <div class="">
@@ -338,7 +366,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Reagents and Lab Cleaning Solutions
               </p>
             </div>
@@ -362,7 +390,7 @@
             environment.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div>
             <img
               src="/HIGCImages/products/safety1.png"
@@ -370,7 +398,9 @@
               class="object-container md:object-cover rounded-t-2xl"
             />
             <div class="px-6 py-4">
-              <p class="text-[18px] text-black font-neue mt-2">Biohazard Coveralls</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Biohazard Coveralls
+              </p>
             </div>
           </div>
           <div>
@@ -380,7 +410,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Protective eye goggles</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Protective eye goggles
+              </p>
             </div>
           </div>
           <div>
@@ -390,7 +422,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Impact-resistant and customized hard hats
               </p>
             </div>
@@ -402,7 +434,7 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Fire retardant coveralls
               </p>
             </div>
@@ -414,7 +446,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Safety shoes</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Safety shoes
+              </p>
             </div>
           </div>
           <div>
@@ -424,7 +458,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Reflective jackets</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Reflective jackets
+              </p>
             </div>
           </div>
           <div>
@@ -434,7 +470,9 @@
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <p class="text-[18px] text-black font-neue mt-2">Life jackets</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Life jackets
+              </p>
             </div>
           </div>
         </div>
@@ -454,7 +492,7 @@
             real-world situations.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div>
             <img
               src="/HIGCImages/products/Equ1.png"
@@ -462,7 +500,7 @@
               class="object-container md:object-cover rounded-t-2xl"
             />
             <div class="px-6 py-4">
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
                 Mannequins and HSSE training tools
               </p>
             </div>
@@ -474,7 +512,9 @@
               class="object-container md:object-cover rounded-t-2xl"
             />
             <div class="px-6 py-4">
-              <p class="text-[18px] text-black font-neue mt-2">Hospital furniture</p>
+              <p class="md:text-[18px] text-sm text-black font-neue md:mt-2">
+                Hospital furniture
+              </p>
             </div>
           </div>
         </div>
