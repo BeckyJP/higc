@@ -11,7 +11,7 @@
             </p>
           </h1>
           <img
-            src="/HIGCImages/Frame28.png"
+            src="/HIGCImages/Frame28.webp"
             alt="HIGC image"
             class="w-[360px] lg:h-[440px] h-auto my-6 object-container rounded-2xl"
           />
@@ -28,7 +28,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div class="rounded-2xl">
             <img
-              src="/HIGCImages/Team1.png"
+              src="/HIGCImages/Team1.webp"
               alt="HIGC image"
               class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
@@ -39,7 +39,7 @@
           </div>
           <div class="rounded-2xl">
             <img
-              src="/HIGCImages/Team2.png"
+              src="/HIGCImages/Team2.webp"
               alt="HIGC image"
               class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
@@ -52,7 +52,7 @@
           </div>
           <div class="rounded-2xl">
             <img
-              src="/HIGCImages/Team3.png"
+              src="/HIGCImages/Team3.webp"
               alt="HIGC image"
               class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
@@ -63,7 +63,7 @@
           </div>
           <div class="rounded-2xl">
             <img
-              src="/HIGCImages/Team4.png"
+              src="/HIGCImages/Team4.webp"
               alt="HIGC image"
               class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
@@ -74,7 +74,7 @@
           </div>
           <div class="rounded-2xl">
             <img
-              src="/HIGCImages/Team5.png"
+              src="/HIGCImages/Team5.webp"
               alt="HIGC image"
               class="w-[340px] lg:h-[440px] h-auto object-container rounded-2xl"
             />
