@@ -264,7 +264,7 @@
           <img
             src="/HIGCImages/Frames14.webp"
             alt="HIGC image"
-            class="w-full h-[260px] object-container rounded-b-2xl"
+            class="w-full h-[255px] object-container rounded-b-2xl"
           />
         </div>
         <div class="text-center">
@@ -301,7 +301,7 @@
           <img
             src="/images/home/ceo1.webp"
             alt="HIGC image"
-            class="w-full h-[260px] object-container rounded-b-2xl"
+            class="w-full h-[255px] object-container rounded-b-2xl"
           />
         </div>
       </div>
