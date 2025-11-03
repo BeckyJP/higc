@@ -43,7 +43,7 @@ const options = {
       padding: { left: "2rem", right: "2rem" },
     },
     640: {
-      padding: { left: "0rem", right: "0rem" },
+      padding: { left: "3rem", right: "3rem" },
     },
   },
 };

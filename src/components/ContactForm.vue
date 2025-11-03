@@ -11,7 +11,7 @@
       </p>
       <section class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
         <div class="bg-[#F5F5F5] rounded-xl md:px-8 px-4 py-6">
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="grid grid-cols-2 md:grid-cols-2 gap-4">
             <div>
               <span class="mb-1 inline-block">
                 <svg
@@ -51,7 +51,7 @@
               <p class="py-4 text-base font-inter font-semibold">+234 916 000 8396</p>
             </div>
           </div>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-8">
+          <div class="grid grid-cols-2 md:grid-cols-2 gap-4 pt-8">
             <div>
               <span class="mb-1 inline-block">
                 <svg

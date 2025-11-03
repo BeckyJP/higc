@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-white pt-12">
     <div class="max-w-screen-xl mx-auto px-6 md:py-12 py-4">
-      <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr]">
+      <div class="grid grid-cols-1 md:grid-cols-[4fr_2fr] gap-4">
         <div>
           <span class="py-4">
             <svg
@@ -35,21 +35,37 @@
               </defs>
             </svg>
           </span>
-          <div
-            class="md:flex block md:space-x-6 space-x-6 md:mt-0 mt-4 text-[16px] md:py-6"
-          >
-            <a href="/about/our-story" class="text-gray-500 hover:text-gray-700"
-              >About HIGC</a
-            >
-            <a href="/services" class="text-gray-500 hover:text-gray-700">Our Services</a>
-            <a href="/products" class="text-gray-500 hover:text-gray-700"
-              >Product Catalog</a
-            >
-            <a href="#" class="text-gray-500 hover:text-gray-700">Training Programs</a>
-            <a href="#" class="text-gray-500 hover:text-gray-700">Career Opportunities</a>
+          <div class="md:mt-0 mt-4 text-[16px] md:py-6">
+            <ul class="md:flex block md:space-y-0 space-y-4 justify-between px-4">
+              <li>
+                <a href="/about/our-story" class="text-gray-500 hover:text-gray-700"
+                  >About HIGC</a
+                >
+              </li>
+              <li>
+                <a href="/services" class="text-gray-500 hover:text-gray-700"
+                  >Our Services</a
+                >
+              </li>
+              <li>
+                <a href="/products" class="text-gray-500 hover:text-gray-700"
+                  >Product Catalog</a
+                >
+              </li>
+              <li>
+                <a href="#" class="text-gray-500 hover:text-gray-700"
+                  >Training Programs</a
+                >
+              </li>
+              <li>
+                <a href="#" class="text-gray-500 hover:text-gray-700"
+                  >Career Opportunities</a
+                >
+              </li>
+            </ul>
           </div>
         </div>
-        <div class="md:mb-12 mb-6">
+        <div class="md:mb-12 mb-6 px-4">
           <div class="flex items-center gap-3">
             <BaseInput
               v-model="form.email"
@@ -57,9 +73,9 @@
               placeholder="jessica@email.com"
               type="email"
               id="email"
-              class="md:w-2/3 mt-6"
+              class="md:w-2/3 md:mt-6"
             />
-            <div class="mt-12 pt-4">
+            <div class="md:mt-12 mt-8 md:pt-4">
               <BaseButton variant="primary">Subscribe</BaseButton>
             </div>
           </div>
@@ -69,7 +85,7 @@
         </div>
       </div>
       <hr class="border-gray-200" />
-      <div class="md:pt-6 pt-3 mt-4 flex flex-col md:flex-row md:justify-between">
+      <div class="md:pt-6 pt-3 mt-4 flex px-4 flex-col md:flex-row md:justify-between">
         <div class="flex space-x-2 mb-2">
           <div class="text-gray-400 hover:text-gray-700 mr-3 cursor-pointer">
             © 2099 HIGC
@@ -79,7 +95,7 @@
             <li><router-link to="/privacy-policy"> Privacy </router-link></li>
           </ul>
         </div>
-        <div class="flex space-x-4 mb-2">
+        <div class="flex space-x-4 my-4">
           <div class="cursor-pointer">
             <svg
               width="16"
