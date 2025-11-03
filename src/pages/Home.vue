@@ -121,7 +121,7 @@
     </section>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <small class="font-mono uppercase md:py-6 py-2 text-gray-500">Our Impact</small>
-      <h3 class="md:text-[40px] text-2xl mt-2 md:mt-4 font-neue">
+      <h3 class="md:text-[40px] text-[36px] mt-2 md:mt-4 font-neue">
         Making a Difference Where It Matters Most
       </h3>
       <p class="font-normal text-gray-500 mb-4 mt-4">
@@ -133,8 +133,8 @@
         alt="HIGC image"
         class="w-full h-auto object-container md:object-cover"
       />
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 py-4 mt-6">
-        <div class="py-4 border-t-4 border-black">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:py-4 md:mt-6">
+        <div class="md:py-4 md:border-t-4 md:border-black">
           <span
             ><svg
               width="36"
@@ -151,18 +151,25 @@
               />
             </svg>
           </span>
-          <h3 class="font-neue text-[18px] py-2 mt-4">Creating Healthier Communities</h3>
+          <h3 class="font-neue text-[18px] py-2 md:mt-4">
+            Creating Healthier Communities
+          </h3>
           <p class="text-gray-500 leading-[1.5rem]">
             Reducing maternal mortality through innovation to strengthening health systems
             across Africa.
           </p>
+          <img
+            src="/HIGCImages/mobile1.webp"
+            alt="HIGC image"
+            class="w-full h-auto object-container pt-6 md:hidden md:object-cover"
+          />
         </div>
-        <div class="md:p-4 border-t-4">
+        <div class="md:p-4 md:border-t-4">
           <span
             ><svg
               width="36"
               height="36"
-              class="mt-4"
+              class="md:mt-4"
               viewBox="0 0 36 36"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -174,18 +181,23 @@
               />
             </svg>
           </span>
-          <h3 class="font-neue text-[18px] py-2 mt-4">Recent outreach Programs</h3>
+          <h3 class="font-neue text-[18px] md:py-2 mt-4">Recent outreach Programs</h3>
           <p class="text-gray-500 leading-[1.5rem]">
             Edo State • Lagos State • Plateau State • Rural Communities and active in 15+
             Nigerian states.
           </p>
+          <img
+            src="/HIGCImages/mobile2.webp"
+            alt="HIGC image"
+            class="w-full h-auto object-container md:hidden pt-6 md:object-cover"
+          />
         </div>
-        <div class="md:p-4 border-t-4">
+        <div class="md:p-4 md:border-t-4">
           <span
             ><svg
               width="36"
               height="36"
-              class="mt-4"
+              class="md:mt-4"
               viewBox="0 0 36 36"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -204,22 +216,24 @@
           </p>
         </div>
       </div>
-      <div class="md:mt-6 mt-0">
+      <div class="md:mt-6 mt-8">
         <BaseButton variant="primary" show-arrow icon-position="right"
           ><router-link to="/impact"> View Our Impact Stories </router-link></BaseButton
         >
       </div>
     </div>
-    <section class="mt-10 md:py-10 bg-darkGray">
+    <section class="mt-10 md:py-12 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div class="p-4">
-            <h3 class="font-neue text-sm uppercase text-gray-500">Leadership</h3>
-            <p class="text-gray-500 md:text-[40px] text-xl md:leading-[2.5rem] py-6">
-              <b class="text-black">Led by Excellence: </b> Award-winning public health
-              expert with 14+ years of experience. 2025 Sir Ahmadu Bello Sardauna
-              Distinguished Platinum Award winner, recognized as an Icon of Societal
-              Transformation.
+          <div class="md:p-4 py-4">
+            <h3 class="font-mono text-sm uppercase text-gray-500">Leadership</h3>
+            <p
+              class="text-gray-500 md:text-[40px] text[36px] md:leading-[2.5rem] md:py-6 my-4"
+            >
+              <b class="text-black">Led by Excellence: </b>
+              Award-winning public health expert with 14+ years of experience. 2025 Sir
+              Ahmadu Bello Sardauna Distinguished Platinum Award winner, recognized as an
+              Icon of Societal Transformation.
             </p>
             <div class="md:mt-20 md:pt-10">
               <BaseButton variant="primary" show-arrow icon-position="right"
@@ -227,11 +241,15 @@
               >
             </div>
           </div>
-          <div class="bg-gray-100 rounded-2xl">
+          <div class="bg-gray-100 rounded-2xl md:order-last mt-12 md:mt-0 order-first">
             <img
               src="/images/home/ceo.webp"
               alt="HIGC image"
-              class="w-full h-auto object-container md:object-cover rounded-t-2xl"
+              class="w-full h-auto object-container hidden md:block md:object-cover rounded-t-2xl"
+            /><img
+              src="/HIGCImages/Imageceo.webp"
+              alt="HIGC image"
+              class="w-full h-auto object-container md:hidden md:block md:object-cover rounded-t-2xl"
             />
             <div class="p-4 md:my-2">
               <p class="md:text-[24px] text-[16px] font-neue font-semibold">
