@@ -6,7 +6,7 @@
           <p class="font-mono text-sm uppercase text-[#7C7C7C]">
             Bringing Healthcare to Every Community
           </p>
-          <h1 class="font-neue md:text-[56px] mt-2 text-3xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] mt-2 text-4xl md:leading-[4rem]">
             Medical Outreach & Social Impact
           </h1>
           <p class="md:mr-[18rem] text-base text-[#7C7C7C] my-2">

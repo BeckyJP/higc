@@ -6,7 +6,7 @@
           <p class="font-mono text-sm uppercase text-[#7C7C7C]">
             Nigerian-Made Medical Solutions for African Healthcare
           </p>
-          <h1 class="font-neue md:text-[56px] text-3xl mt-2 md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] text-4xl mt-2 md:leading-[4rem]">
             Healthcare Innovation & Manufacturing
           </h1>
           <p class="md:mr-[18rem] text-base text-[#7C7C7C] my-2">

@@ -4,7 +4,7 @@
       <div class="grid grid-cols-2 md:grid-cols-2 py-4 mt-6">
         <div>
           <p class="uppercase text-sm text-[#ABABAB]">Main Services</p>
-          <h1 class="font-neue md:text-6xl my-3 text-3xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-6xl my-3 text-4xl md:leading-[4rem]">
             Essential Medical Technology for
             <span class="text-[#ABABAB]">Superior Healthcare</span>
           </h1>

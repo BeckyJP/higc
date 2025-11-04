@@ -4,7 +4,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-4 mt-6">
         <div>
           <p class="font-mono text-sm text-[#7C7C7C]">Main Services</p>
-          <h1 class="font-neue md:text-[56px] text-3xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] text-4xl md:leading-[4rem]">
             Comprehensive Healthcare Solutions
             <span class="text-[#ABABAB]"> Across Nigeria </span>
           </h1>

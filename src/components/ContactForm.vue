@@ -1,5 +1,5 @@
 <template>
-  <section class="md:py-12 py-4">
+  <section class="md:py-12 py-10">
     <div class="max-w-screen-xl mx-auto px-6">
       <h2 class="font-neue text-[32px] md:text-[40px]">
         Ready to Innovate Healthcare Together?
@@ -28,8 +28,10 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Email</p>
-              <p class="text-[#7C7C7C] py-2">Stay updated and get in touch directly.</p>
-              <p class="py-4 text-base font-semibold">info@higcng.com</p>
+              <p class="text-[#7C7C7C] text-sm py-2">
+                Stay updated and get in touch directly.
+              </p>
+              <p class="py-4 text-sm font-semibold">info@higcng.com</p>
             </div>
             <div>
               <span class="mb-1 inline-block">
@@ -47,8 +49,10 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">WhatsApp</p>
-              <p class="text-[#7C7C7C] py-2">Message us anytime for quick help.</p>
-              <p class="py-4 text-base font-inter font-semibold">+234 916 000 8396</p>
+              <p class="text-[#7C7C7C] text-sm py-2">
+                Message us anytime for quick help.
+              </p>
+              <p class="py-4 text-sm font-inter font-semibold">+234 916 000 8396</p>
             </div>
           </div>
           <div class="grid grid-cols-2 md:grid-cols-2 gap-4 pt-8">
@@ -68,8 +72,8 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Office</p>
-              <p class="text-[#7C7C7C] py-2">Visit or write to us at:</p>
-              <p class="py-4 text-base font-semibold">
+              <p class="text-[#7C7C7C] text-sm py-2">Visit or write to us at:</p>
+              <p class="py-4 text-sm font-semibold">
                 24B Bashorun Okusanya Avenue, off Admiralty Road, Lekki Phase One, Lagos,
                 Nigeria
               </p>
@@ -90,15 +94,15 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Phone</p>
-              <p class="text-[#7C7C7C] py-2">Speak to our team for support.</p>
-              <p class="py-4 text-base font-semibold">+234 916 000 8396</p>
+              <p class="text-[#7C7C7C] text-sm py-2">Speak to our team for support.</p>
+              <p class="py-4 text-sm font-semibold">+234 916 000 8396</p>
             </div>
           </div>
         </div>
         <div>
           <form
             @submit.prevent="handleSubmit"
-            class="max-w-lg mx-auto md:p-6 rounded-lg space-y-4"
+            class="max-w-lg mx-auto md:p-6 md:mt-0 mt-8 rounded-2xl space-y-4"
           >
             <div class="mb-4">
               <BaseInput

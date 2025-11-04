@@ -1,6 +1,6 @@
 <template>
   <div class="space-y-3">
-    <label v-if="label" :for="id" class="block text-base font-medium text-gray-700">
+    <label v-if="label" :for="id" class="block text-sm font-medium text-gray-700">
       {{ label }}
     </label>
     <input
@@ -8,7 +8,7 @@
       :type="type"
       :placeholder="placeholder"
       v-model="model"
-      class="w-full border-none border-gray-300 bg-gray-100 rounded-full px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+      class="w-full border-none border-gray-300 bg-gray-100 rounded-xl px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:outline-none"
     />
   </div>
 </template>

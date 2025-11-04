@@ -35,30 +35,32 @@
               </defs>
             </svg>
           </span>
-          <div class="md:mt-0 mt-4 text-[16px] md:py-6">
+          <div class="md:mt-0 mt-4 text-base md:py-6">
             <ul class="md:flex block md:space-y-0 space-y-4 justify-between px-4">
               <li>
-                <a href="/about/our-story" class="text-[#7C7C7C] hover:text-gray-700"
+                <a
+                  href="/about/our-story"
+                  class="text-[#7C7C7C] text-base hover:text-gray-700"
                   >About HIGC</a
                 >
               </li>
               <li>
-                <a href="/services" class="text-[#7C7C7C] hover:text-gray-700"
+                <a href="/services" class="text-[#7C7C7C] text-base hover:text-gray-700"
                   >Our Services</a
                 >
               </li>
               <li>
-                <a href="/products" class="text-[#7C7C7C] hover:text-gray-700"
+                <a href="/products" class="text-[#7C7C7C] text-base hover:text-gray-700"
                   >Product Catalog</a
                 >
               </li>
               <li>
-                <a href="#" class="text-[#7C7C7C] hover:text-gray-700"
+                <a href="#" class="text-[#7C7C7C] text-base hover:text-gray-700"
                   >Training Programs</a
                 >
               </li>
               <li>
-                <a href="#" class="text-[#7C7C7C] hover:text-gray-700"
+                <a href="#" class="text-[#7C7C7C] text-base hover:text-gray-700"
                   >Career Opportunities</a
                 >
               </li>
@@ -79,7 +81,7 @@
               <BaseButton variant="primary">Subscribe</BaseButton>
             </div>
           </div>
-          <p class="text-gray-400 text-[14px] mx-3">
+          <p class="text-gray-400 text-xs mx-2">
             By clicking, you’re agreeing to our Terms.
           </p>
         </div>

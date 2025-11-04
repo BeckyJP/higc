@@ -6,7 +6,7 @@
           <p class="uppercase text-sm text-[#7C7C7C]">
             Complete Healthcare System Solutions
           </p>
-          <h1 class="font-neue md:text-[56px] text-3xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] text-4xl md:leading-[4rem]">
             Healthcare Consulting & Administration
           </h1>
           <p class="md:mr-[18rem] text-base text-[#7C7C7C] my-2">

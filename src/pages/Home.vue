@@ -228,10 +228,10 @@
         >
       </div>
     </div>
-    <section class="mt-10 md:py-12 bg-darkGray">
+    <section class="mt-10 py-12 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div class="md:p-4 py-4">
+          <div class="md:p-4 md:py-4 py-6">
             <h3 class="font-mono text-sm uppercase text-[#7C7C7C]">Leadership</h3>
             <p
               class="text-[#7C7C7C] md:text-[40px] text[36px] md:leading-[2.5rem] md:py-6 my-4"
@@ -267,7 +267,7 @@
         </div>
       </div>
     </section>
-    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-16">
       <h2 class="md:text-4xl text-[36px] font-neue">Why Partner With HIGC?</h2>
       <p class="text-[#7C7C7C] text-base mt-2 md:mt-4">
         Stay ahead with curated insights, resources, tools, and more—handpicked to spark

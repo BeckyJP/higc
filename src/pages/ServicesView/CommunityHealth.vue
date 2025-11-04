@@ -6,7 +6,7 @@
           <p class="font-mono uppercase text-sm text-[#7C7C7C]">
             Empowering Healthcare Workers Across Africa
           </p>
-          <h1 class="font-neue md:text-[56px] mt-2 text-3xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] mt-2 text-4xl md:leading-[4rem]">
             Community Health Programs
           </h1>
           <p class="md:pr-[25rem] text-base text-[#7C7C7C] my-2">
@@ -130,10 +130,10 @@
     </section>
     <div class="bg-darkGray py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black md:text-4xl pt-4 text-2xl md:leading-[2rem]">
+        <h1 class="font-neue text-black text-4xl pt-4 md:leading-[2rem]">
           Customized Solutions
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 my-4">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 md:my-4 my-2">
           <p class="text-base mt-2 font-neue font-normal leading-[2rem] md:w-[600px]">
             <b>Train-the-Trainer Programs:</b> Building local training capacity with
             curriculum development, certification maintenance, and quality assurance
@@ -146,7 +146,7 @@
         </div>
       </div>
     </div>
-    <div class="bg-white py-10">
+    <div class="bg-white md:py-10 py-8">
       <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black text-4xl mt-4 md:leading-[2rem]">
           Enrollment Options
