@@ -3,10 +3,10 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-1 py-4 mt-6">
         <div>
-          <small class="text-gray-500 font-mono text-sm">MEET THE TEAM</small>
+          <p class="text-[#7C7C7C] font-mono text-sm">MEET THE TEAM</p>
           <h1 class="font-neue md:text-[56px] pt-4 text-2xl md:leading-[4rem]">
             Meet Our Leadership
-            <p class="text-gray-500 text-[16px] font-normal">
+            <p class="text-[#7C7C7C] text-base font-normal">
               A dedicated, innovative team advancing healthcare we believe in together.
             </p>
           </h1>
@@ -18,7 +18,7 @@
           <p class="md:text-[24px] text-[16px] font-neue font-semibold">
             Dr. Owen Omo-Ojo (MD, MPH)
           </p>
-          <p class="text-[16px] text-gray-500">Founder & Managing Director</p>
+          <p class="text-[20px] text-[#7C7C7C]">Founder & Managing Director</p>
         </div>
       </div>
     </div>
@@ -34,7 +34,7 @@
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Peter Odiase</p>
-              <p class="text-[20px] text-gray-500">Marketing</p>
+              <p class="text-[20px] text-[#7C7C7C]">Marketing</p>
             </div>
           </div>
           <div class="rounded-2xl">
@@ -45,7 +45,7 @@
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Samuel Gbiaye</p>
-              <p class="text-[20px] text-gray-500">
+              <p class="text-[20px] text-[#7C7C7C]">
                 Digital Communications and Operations
               </p>
             </div>
@@ -58,7 +58,7 @@
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Celestine Omin</p>
-              <p class="text-[20px] text-gray-500">Advisor</p>
+              <p class="text-[20px] text-[#7C7C7C]">Advisor</p>
             </div>
           </div>
           <div class="rounded-2xl">
@@ -69,7 +69,7 @@
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Jerome Uzoka</p>
-              <p class="text-[20px] text-gray-500">Chief Medic</p>
+              <p class="text-[20px] text-[#7C7C7C]">Chief Medic</p>
             </div>
           </div>
           <div class="rounded-2xl">
@@ -80,7 +80,7 @@
             />
             <div class="py-4">
               <p class="text-[24px] text-neue text-black">Festus Okubor</p>
-              <p class="text-[20px] text-gray-500">Remote Site Nurse</p>
+              <p class="text-[20px] text-[#7C7C7C]">Remote Site Nurse</p>
             </div>
           </div>
         </div>
@@ -89,12 +89,12 @@
     <div class="max-w-screen-xl mx-auto px-6">
       <div class="grid grid-cols-1 md:grid-cols-1 py-4 mt-6">
         <div class="">
-          <small class="text-gray-500 font-normal font-mono"
+          <small class="text-[#7C7C7C] font-normal font-mono"
             >PLACES WE HAVE BEEN RECOGNISED
           </small>
           <h1 class="font-neue md:text-[56px] pt-4 text-2xl md:leading-[4rem]">
             Awards & Recognition
-            <p class="text-gray-500 text-[16px] font-inter">
+            <p class="text-[#7C7C7C] text-[16px] font-inter">
               A creative, curious crew building things we believe in—together.
             </p>
           </h1>

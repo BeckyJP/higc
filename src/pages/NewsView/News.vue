@@ -3,8 +3,10 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-[1fr_3fr] py-4 mt-6">
         <div>
-          <h3 class="md:text-[40px] leading-[3rem] text-3xl font-neue">News & Updates</h3>
-          <small class="font-mono text-gray-500"> See what HIGC is up to. </small>
+          <h3 class="md:text-4xl w-40 md:leading-[3rem] text-3xl font-neue">
+            News & Updates
+          </h3>
+          <p class="text-gray-500">See what HIGC is up to.</p>
         </div>
         <div>
           <div class="bg-darkGray p-4 my-4 rounded-lg">

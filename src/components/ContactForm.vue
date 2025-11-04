@@ -4,7 +4,7 @@
       <h2 class="font-neue text-[32px] md:text-[40px]">
         Ready to Innovate Healthcare Together?
       </h2>
-      <p class="text-[16px] md:pr-12 my-2 text-gray-500 leading-relaxing">
+      <p class="text-base md:pr-40 my-2 text-[#7C7C7C] leading-relaxing">
         Whether you need healthcare consulting, medical supplies, training programs, or
         partnership for community health initiatives, we have the expertise and passion to
         deliver results.
@@ -28,7 +28,7 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Email</p>
-              <p class="text-gray-500 py-2">Stay updated and get in touch directly.</p>
+              <p class="text-[#7C7C7C] py-2">Stay updated and get in touch directly.</p>
               <p class="py-4 text-base font-semibold">info@higcng.com</p>
             </div>
             <div>
@@ -47,7 +47,7 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">WhatsApp</p>
-              <p class="text-gray-500 py-2">Message us anytime for quick help.</p>
+              <p class="text-[#7C7C7C] py-2">Message us anytime for quick help.</p>
               <p class="py-4 text-base font-inter font-semibold">+234 916 000 8396</p>
             </div>
           </div>
@@ -68,7 +68,7 @@
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Office</p>
-              <p class="text-gray-500 py-2">Visit or write to us at:</p>
+              <p class="text-[#7C7C7C] py-2">Visit or write to us at:</p>
               <p class="py-4 text-base font-semibold">
                 24B Bashorun Okusanya Avenue, off Admiralty Road, Lekki Phase One, Lagos,
                 Nigeria
@@ -77,20 +77,20 @@
             <div>
               <span class="mb-1 inline-block">
                 <svg
-                  width="18"
-                  height="22"
-                  viewBox="0 0 18 22"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
-                    d="M9 0.0263672C6.81273 0.0288485 4.71575 0.898839 3.16911 2.44548C1.62247 3.99211 0.752481 6.08909 0.75 8.27637C0.75 15.3357 8.25 20.6673 8.56969 20.8904C8.69579 20.9788 8.84603 21.0262 9 21.0262C9.15397 21.0262 9.30421 20.9788 9.43031 20.8904C9.75 20.6673 17.25 15.3357 17.25 8.27637C17.2475 6.08909 16.3775 3.99211 14.8309 2.44548C13.2843 0.898839 11.1873 0.0288485 9 0.0263672ZM9 5.27637C9.59334 5.27637 10.1734 5.45231 10.6667 5.78196C11.1601 6.1116 11.5446 6.58014 11.7716 7.12832C11.9987 7.67649 12.0581 8.2797 11.9424 8.86164C11.8266 9.44358 11.5409 9.97813 11.1213 10.3977C10.7018 10.8172 10.1672 11.103 9.58527 11.2187C9.00333 11.3345 8.40013 11.2751 7.85195 11.048C7.30377 10.8209 6.83524 10.4364 6.50559 9.94308C6.17595 9.44973 6 8.86971 6 8.27637C6 7.48072 6.31607 6.71766 6.87868 6.15505C7.44129 5.59244 8.20435 5.27637 9 5.27637Z"
+                    d="M21.7388 16.4136C21.5716 17.6839 20.9477 18.85 19.9837 19.6939C19.0196 20.5379 17.7813 21.0021 16.5 20.9998C9.05626 20.9998 3.00001 14.9436 3.00001 7.49981C2.99771 6.21852 3.4619 4.98021 4.30588 4.01615C5.14986 3.05209 6.31592 2.42822 7.58626 2.26106C7.9075 2.22184 8.2328 2.28756 8.51362 2.44841C8.79444 2.60926 9.0157 2.85662 9.14438 3.15356L11.1244 7.57387V7.58512C11.2229 7.81242 11.2636 8.06059 11.2428 8.30744C11.222 8.5543 11.1404 8.79217 11.0053 8.99981C10.9884 9.02512 10.9706 9.04856 10.9519 9.072L9.00001 11.3857C9.7022 12.8126 11.1947 14.292 12.6403 14.9961L14.9222 13.0545C14.9446 13.0357 14.9681 13.0181 14.9925 13.002C15.2 12.8636 15.4387 12.7792 15.687 12.7562C15.9353 12.7333 16.1854 12.7727 16.4147 12.8707L16.4269 12.8764L20.8434 14.8554C21.1409 14.9837 21.3889 15.2047 21.5503 15.4856C21.7116 15.7664 21.7778 16.092 21.7388 16.4136Z"
                     fill="#222222"
                   />
                 </svg>
               </span>
               <p class="text-[16px] font-neue font-semibold">Phone</p>
-              <p class="text-gray-500 py-2">Speak to our team for support.</p>
+              <p class="text-[#7C7C7C] py-2">Speak to our team for support.</p>
               <p class="py-4 text-base font-semibold">+234 916 000 8396</p>
             </div>
           </div>

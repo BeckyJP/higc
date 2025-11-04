@@ -1,18 +1,19 @@
 <template>
   <DefaultLayout>
     <section class="max-w-screen-xl mx-auto px-6 md:pt-16">
-      <h2 class="text-[14px] text-gray-500 mb-4 font-mono">
+      <p class="text-sm text-[#7C7C7C] uppercase mb-4 font-mono">
         Innovating Healthcare, Impacting Lives
-      </h2>
+      </p>
       <div>
-        <h1 class="lg:text-[56px] text-2xl lg:leading-[4rem] font-neue text-[#ababab]">
+        <h1
+          class="lg:text-[56px] text-[36px] md:leading-[4rem] leading-[3rem] font-neue text-[#ababab]"
+        >
           <b class="text-black"> HIGC:</b> Bringing Quality Healthcare Solutions to
           Nigeria and Africa
         </h1>
-        <p class="text-[16px] text-gray-500 leading-relaxing md:my-0 my-4">
+        <p class="text-md text-[#7C7C7C] leading-relaxing md:my-2 my-4">
           From rural medical outreach to innovative healthcare manufacturing -
           comprehensive solutions led by award-winning public health expert Dr. Owen
-          <br />
           Omo-Ojo.
         </p>
         <div class="my-4">
@@ -23,13 +24,12 @@
     <section class="md:mt-6 md:py-10 py-6">
       <HeroCarousel />
     </section>
-    <section class="md:mt-10 md:py-10 py-4 bg-darkGray">
+    <section class="md:mt-10 py-10 py-4 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6">
-        <small class="font-mono uppercase py-4 text-gray-500">Stay updated</small>
-        <h3 class="text-[40px] font-neue">What we do</h3>
-        <p class="font-normal text-gray-500">
-          Stay ahead with curated insights, resources, tools, and more—handpicked to spark
-          your creativity and elevate your work.
+        <p class="font-mono text-sm uppercase text-[#7C7C7C]">Stay updated</p>
+        <h3 class="md:text-4xl text-[36px] font-[500] font-neue">What we do</h3>
+        <p class="font-normal text-md text-[#7C7C7C]">
+          We provide comprehensive quality healthcare solutions
         </p>
         <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] mt-8 gap-4">
           <div class="bg-gray-100 rounded-lg">
@@ -38,9 +38,11 @@
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
-            <div class="p-4 text-base">
-              <h3 class="font-neue text-[24px] md:py-3">Community Health Programs</h3>
-              <p class="text-gray-500 leading-[1.5rem]">
+            <div class="p-4">
+              <h3 class="font-neue text-2xl font[500] md:py-3">
+                Community Health Programs
+              </h3>
+              <p class="text-[#7C7C7C] text-base my-2 leading-[1.5rem]">
                 Free health screenings, maternal health support, and preventive care in
                 underserved communities across Nigeria.
               </p>
@@ -52,9 +54,11 @@
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
-            <div class="p-4 text-base">
-              <h3 class="font-neue text-[24px] md:py-3">Medical & Safety Supplies</h3>
-              <p class="text-gray-500 leading-[1.5rem]">
+            <div class="p-4">
+              <h3 class="font-neue text-2xl font[500] md:py-3">
+                Medical & Safety Supplies
+              </h3>
+              <p class="text-[#7C7C7C] text-base my-2 leading-[1.5rem]">
                 Professional development programs for healthcare workers.
               </p>
             </div>
@@ -69,10 +73,10 @@
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <h3 class="font-neue text-[24px] md:py-3">
+              <h3 class="font-neue text-2xl font[500] md:py-3">
                 Healthcare Innovation & Manufacturing
               </h3>
-              <p class="text-gray-500 leading-[1.5rem]">
+              <p class="text-[#7C7C7C] text-base md:my-0 my-2 leading-[1.5rem]">
                 Life-saving medical devices including our award-winning HIGC Calibrated
                 Maternity Drape.
               </p>
@@ -86,10 +90,10 @@
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <h3 class="font-neue text-[24px] md:py-3">
+              <h3 class="font-neue text-2xl font[500] md:py-3">
                 Healthcare Consulting and Administration
               </h3>
-              <p class="text-gray-500 leading-[1.5rem]">
+              <p class="text-[#7C7C7C] text-base md:my-0 my-2 leading-[1.5rem]">
                 End-to-end solutions for hospital setup, management, occupational health,
                 and HMO advisory services.
               </p>
@@ -97,15 +101,15 @@
           </div>
           <div class="bg-gray-100 rounded-lg">
             <img
-              src="/images/home/higc-drugs.webp"
+              src="/HIGCImages/Image-4.webp"
               alt="HIGC image"
               class="w-full md:h-[346px] h-auto object-container md:object-cover rounded-t-2xl"
             />
             <div class="p-4">
-              <h3 class="font-neue text-[24px] md:py-3">
+              <h3 class="font-neue text-2xl font[500] md:py-2">
                 Medical Outreach & Social <br />Impact
               </h3>
-              <p class="text-gray-500 leading-[1.5rem] text-base py-4">
+              <p class="text-[#7C7C7C] text-base md:my-0 my-2 leading-[1.5rem]">
                 Quality pharmaceuticals, diagnostic equipment, PPE, and safety solutions
                 for healthcare and industrial sectors.
               </p>
@@ -120,11 +124,11 @@
       </div>
     </section>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
-      <small class="font-mono uppercase md:py-6 py-2 text-gray-500">Our Impact</small>
-      <h3 class="md:text-[40px] text-[36px] mt-2 md:mt-4 font-neue">
+      <p class="font-mono text-sm uppercase py-2 text-[#7C7C7C]">Our Impact</p>
+      <h3 class="md:text-4xl text-[36px] font-neue">
         Making a Difference Where It Matters Most
       </h3>
-      <p class="font-normal text-gray-500 mb-4 mt-4">
+      <p class="font-normal text-md text-[#7C7C7C] mb-4 mt-4">
         Stay ahead with curated insights, resources, tools, and more—handpicked to spark
         your creativity and elevate your work.
       </p>
@@ -151,10 +155,10 @@
               />
             </svg>
           </span>
-          <h3 class="font-neue text-[18px] py-2 md:mt-4">
+          <h3 class="font-neue text-lg font-[500] py-2 md:mt-4">
             Creating Healthier Communities
           </h3>
-          <p class="text-gray-500 leading-[1.5rem]">
+          <p class="text-[#7C7C7C] leading-[1.5rem]">
             Reducing maternal mortality through innovation to strengthening health systems
             across Africa.
           </p>
@@ -181,8 +185,10 @@
               />
             </svg>
           </span>
-          <h3 class="font-neue text-[18px] md:py-2 mt-4">Recent outreach Programs</h3>
-          <p class="text-gray-500 leading-[1.5rem]">
+          <h3 class="font-neue text-lg font-[500] md:py-2 mt-4">
+            Recent outreach Programs
+          </h3>
+          <p class="text-[#7C7C7C] leading-[1.5rem]">
             Edo State • Lagos State • Plateau State • Rural Communities and active in 15+
             Nigerian states.
           </p>
@@ -209,8 +215,8 @@
               />
             </svg>
           </span>
-          <h3 class="font-neue text-[18px] py-2">industrial We Serve</h3>
-          <p class="text-gray-500 leading-[1.5rem]">
+          <h3 class="font-neue text-lg font-[500] py-2">Industries We Serve</h3>
+          <p class="text-[#7C7C7C] leading-[1.5rem]">
             Healthcare • Oil & Gas • Construction • FMCG • Government • NGOs reaching
             10,000+ people annually.
           </p>
@@ -226,9 +232,9 @@
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="md:p-4 py-4">
-            <h3 class="font-mono text-sm uppercase text-gray-500">Leadership</h3>
+            <h3 class="font-mono text-sm uppercase text-[#7C7C7C]">Leadership</h3>
             <p
-              class="text-gray-500 md:text-[40px] text[36px] md:leading-[2.5rem] md:py-6 my-4"
+              class="text-[#7C7C7C] md:text-[40px] text[36px] md:leading-[2.5rem] md:py-6 my-4"
             >
               <b class="text-black">Led by Excellence: </b>
               Award-winning public health expert with 14+ years of experience. 2025 Sir
@@ -255,15 +261,15 @@
               <p class="md:text-[24px] text-[16px] font-neue font-semibold">
                 Dr. Owen Omo-Ojo (MD, MPH)
               </p>
-              <p class="text-[16px] text-gray-500">Founder & Managing Director</p>
+              <p class="text-[16px] text-[#7C7C7C]">Founder & Managing Director</p>
             </div>
           </div>
         </div>
       </div>
     </section>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
-      <h2 class="md:text-[40px] text-4xl font-neue">Why Partner With HIGC?</h2>
-      <p class="text-gray-500 mt-4 md:mt-4">
+      <h2 class="md:text-4xl text-[36px] font-neue">Why Partner With HIGC?</h2>
+      <p class="text-[#7C7C7C] text-base mt-2 md:mt-4">
         Stay ahead with curated insights, resources, tools, and more—handpicked to spark
         your creativity and elevate your work.
       </p>
@@ -274,7 +280,7 @@
               Impact-Driven <br />
               Healthcare Solutions
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px]">
+            <p class="text-[#7C7C7C] leading-[1.5rem] text-[16px]">
               We prioritize community impact and sustainable healthcare solutions over
               profit maximization
             </p>
@@ -291,7 +297,7 @@
               Full-Spectrum <br />
               Healthcare Services
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] my-4">
+            <p class="text-[#7C7C7C] leading-[1.5rem] text-[16px] my-4">
               From rural medical outreach to advanced manufacturing, we cover the complete
               healthcare spectrum
             </p>
@@ -300,7 +306,7 @@
             <h3 class="font-neue text-[22px]">
               Nigerian Solutions for <br />African Challenges
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] my-4">
+            <p class="text-[#7C7C7C] leading-[1.5rem] text-[16px] my-4">
               Nigerian-designed medical solutions that understand and address Africa's
               unique healthcare challenges
             </p>
@@ -311,7 +317,7 @@
             <h3 class="font-neue text-[22px]">
               Award-Winning <br />Leadership & Outcomes
             </h3>
-            <p class="text-gray-500 leading-[1.5rem] text-[16px] px-8">
+            <p class="text-[#7C7C7C] leading-[1.5rem] text-[16px] px-8">
               Led by award-winning Dr. Owen Omo-Ojo with 14+ years of measurable
               healthcare impact
             </p>

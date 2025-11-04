@@ -5,7 +5,7 @@
         <p class="rounded-full text-sm w-20 px-4 py-1 mb-4 text-center bg-gray-200">
           Health
         </p>
-        <h2 class="font-neue md:text-[40px] text-2xl leading-[3.5rem]">
+        <h2 class="font-neue md:text-4xl text-2xl leading-[3.5rem]">
           Strengthening Africa’s health R&D and manufacturing ecosystem: Analysis of the
           investments and gaps
         </h2>

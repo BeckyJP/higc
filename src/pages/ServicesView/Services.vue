@@ -3,14 +3,14 @@
     <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-4 mt-6">
         <div>
-          <small class="font-mono text-sm text-gray-500">Main Services</small>
-          <h1 class="font-neue md:text-[56px] text-2xl md:leading-[4rem]">
+          <p class="font-mono text-sm text-[#7C7C7C]">Main Services</p>
+          <h1 class="font-neue md:text-[56px] text-3xl md:leading-[4rem]">
             Comprehensive Healthcare Solutions
             <span class="text-[#ABABAB]"> Across Nigeria </span>
           </h1>
         </div>
         <div class="md:pt-6 pt-4 md:px-4">
-          <p class="text-gray-500 leading-[1.5rem] text-[16px]">
+          <p class="text-[#7C7C7C] leading-[1.5rem] text-base">
             From community health outreach to advanced medical manufacturing, HIGC
             delivers complete healthcare consulting Nigeria services through our five
             specialized pillars of impact.
@@ -34,15 +34,13 @@
     <section class="bg-darkGray md:py-10 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <small class="text-gray-500 font-mono uppercase text-sm my-4"
-            >Stay updated</small
-          >
+          <p class="text-[#7C7C7C] font-mono uppercase text-sm my-4">Stay updated</p>
           <h1
-            class="font-neue text-black md:text-[38px] py-3 mt-4 text-2xl md:leading-[2rem]"
+            class="font-neue text-black md:text-4xl py-3 mt-4 text-2xl md:leading-[2rem]"
           >
             These are the Five Service Pillars we provide
           </h1>
-          <p class="text-gray-500">
+          <p class="text-[#7C7C7C]">
             Our multi-faceted approach ensures comprehensive healthcare support from
             grassroots to clinical levels.
           </p>
@@ -54,7 +52,7 @@
               alt="HIGC image"
               class="object-container rounded-t-2xl"
             />
-            <div class="px-6 py-4">
+            <div class="p-6 mt-4">
               <span
                 ><svg
                   width="24"
@@ -69,10 +67,8 @@
                   />
                 </svg>
               </span>
-              <p class="text-[18px] text-black font-neue mt-2">
-                Community Health Programs
-              </p>
-              <p class="text-base text-gray-500">
+              <p class="text-2xl text-black font-neue mt-2">Community Health Programs</p>
+              <p class="text-base text-[#7C7C7C]">
                 Free health services and community programs that reach underserved
                 populations across Nigeria, combining medical care with education and
                 empowerment.
@@ -86,7 +82,7 @@
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
-            <div class="p-4">
+            <div class="p-6 mt-4">
               <span
                 ><svg
                   width="24"
@@ -101,10 +97,8 @@
                   />
                 </svg>
               </span>
-              <p class="text-[18px] text-black font-neue mt-2">
-                Medical & Safety Supplies
-              </p>
-              <p class="text-base text-gray-500">
+              <p class="text-2xl text-black font-neue mt-2">Medical & Safety Supplies</p>
+              <p class="text-base text-[#7C7C7C]">
                 Comprehensive medical equipment supplier Lagos services providing
                 certified products for healthcare facilities, industrial sectors, and
                 safety-critical operations.
@@ -118,7 +112,7 @@
               alt="HIGC image"
               class="h-auto object-container md:object-cover rounded-t-2xl"
             />
-            <div class="p-4">
+            <div class="p-6 mt-4">
               <span
                 ><svg
                   width="24"
@@ -133,10 +127,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="text-2xl text-black font-neue mt-2">
                 Healthcare Innovation & Manufacturing
               </p>
-              <p class="text-base text-gray-500">
+              <p class="text-base text-[#7C7C7C]">
                 Innovative medical devices designed for African healthcare challenges,
                 manufactured to international standards with local understanding.
               </p>
@@ -149,7 +143,7 @@
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
-            <div class="p-4">
+            <div class="p-6 mt-4">
               <span
                 ><svg
                   width="24"
@@ -164,10 +158,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="text-2xl text-black font-neue mt-2">
                 Healthcare Consulting & Administration
               </p>
-              <p class="text-base text-gray-500">
+              <p class="text-base text-[#7C7C7C]">
                 End-to-end healthcare consulting Nigeria services from facility setup to
                 system optimization, helping organizations deliver better healthcare
                 outcomes.
@@ -181,7 +175,7 @@
               alt="HIGC image"
               class="h-auto object-container rounded-t-2xl"
             />
-            <div class="p-4">
+            <div class="p-6 mt-4">
               <span
                 ><svg
                   width="24"
@@ -196,10 +190,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-[18px] text-black font-neue mt-2">
+              <p class="text-2xl text-black font-neue mt-2">
                 Medical Outreach & Social Impact
               </p>
-              <p class="text-base text-gray-500">
+              <p class="text-base text-[#7C7C7C]">
                 Professional development and certification programs that build local
                 healthcare capacity and improve service delivery across Africa.
               </p>
@@ -219,7 +213,7 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4 my-8">
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">01</p>
-            <div class="mt-16">
+            <div class="mt-20">
               <p class="font-bold">Integrated Approach</p>
               <p class="text-black md:text-base">
                 All services work together for maximum impact
@@ -228,29 +222,27 @@
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">02</p>
-            <div class="mt-16">
-              <p class="font-bold">Local Expertise</p>
-              <p class="text-black md:text-base">
+            <div class="mt-20">
+              <p class="font-bold text-base">Local Expertise</p>
+              <p class="text-black text-base">
                 Nigerian solutions for African healthcare challenges
               </p>
             </div>
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">03</p>
-            <div class="mt-16">
-              <p class="font-bold">Quality Assurance</p>
-              <p class="text-black md:text-base">
+            <div class="mt-20">
+              <p class="font-bold text-base">Quality Assurance</p>
+              <p class="text-black text-base">
                 International standards with local accessibility
               </p>
             </div>
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">04</p>
-            <div class="mt-16">
+            <div class="mt-20 text-base">
               <p class="font-bold">Proven Results</p>
-              <p class="text-black md:text-base">
-                7+ years of measurable healthcare improvements
-              </p>
+              <p class="text-black">7+ years of measurable healthcare improvements</p>
             </div>
           </div>
         </div>

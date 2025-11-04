@@ -3,13 +3,13 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
       <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
         <div>
-          <small class="font-mono uppercase text-gray-500"
-            >Complete Healthcare System Solutions</small
-          >
-          <h1 class="font-neue md:text-[56px] mt-2 text-2xl md:leading-[4rem]">
+          <p class="uppercase text-sm text-[#7C7C7C]">
+            Complete Healthcare System Solutions
+          </p>
+          <h1 class="font-neue md:text-[56px] text-3xl md:leading-[4rem]">
             Healthcare Consulting & Administration
           </h1>
-          <p class="md:mr-[18rem] text-gray-500 my-2">
+          <p class="md:mr-[18rem] text-base text-[#7C7C7C] my-2">
             End-to-end healthcare consulting Nigeria services that transform healthcare
             delivery through strategic planning, operational excellence, and system
             optimization.
@@ -45,12 +45,10 @@
     <section class="bg-darkGray md:py-6 my-16">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <h1
-            class="font-neue text-black md:text-[38px] py-3 mt-4 text-2xl md:leading-[2rem]"
-          >
+          <h1 class="font-neue text-black text-4xl py-3 mt-4 md:leading-[2rem]">
             Healthcare Facility Setup
           </h1>
-          <p class="text-gray-500">
+          <p class="text-[#7C7C7C] text-base">
             End-to-end planning, equipment, and staffing solutions tailored to your
             facility’s needs.
           </p>
@@ -63,39 +61,31 @@
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
             <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 pt-4">
-              <div class="p-4">
-                <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
-                <p class="text-base font-bold text-black md:text-[18px] font-neue mt-2">
-                  Hospitals:
-                </p>
-                <p class="text-base text-black md:text-[18px] font-neue mt-2">
+              <div class="p-4 text-lg">
+                <p class="font-mono uppercase text-[#ABABAB]">01</p>
+                <p class="font-bold text-black font-neue mt-2">Hospitals:</p>
+                <p class="text-black font-neue mt-2">
                   Complete planning, equipment, staffing, and operational systems
                 </p>
               </div>
-              <div class="p-4">
-                <p class="font-mono uppercase text-base text-[#ABABAB]">02</p>
-                <p class="text-base font-bold text-black md:text-[18px] font-neue mt-2">
-                  Clinics:
-                </p>
-                <p class="text-base text-black md:text-[18px] font-neue mt-2">
+              <div class="p-4 text-lg">
+                <p class="font-mono uppercase text-[#ABABAB]">02</p>
+                <p class="font-bold text-black font-neue mt-2">Clinics:</p>
+                <p class="text-black font-neue mt-2">
                   Onsite, remote-site, and offshore medical facilities
                 </p>
               </div>
-              <div class="p-4">
-                <p class="font-mono uppercase text-base text-[#ABABAB]">03</p>
-                <p class="text-base text-black font-bold md:text-[18px] font-neue mt-2">
-                  Diagnostic Centers:
-                </p>
-                <p class="text-base text-black md:text-[18px] font-neue">
+              <div class="p-4 text-lg">
+                <p class="font-mono uppercase text-[#ABABAB]">03</p>
+                <p class="text-black font-bold font-neue mt-2">Diagnostic Centers:</p>
+                <p class="text-black font-neue">
                   Equipment selection, lab setup, and certification
                 </p>
               </div>
-              <div class="p-4">
-                <p class="font-mono uppercase text-base text-[#ABABAB]">04</p>
-                <p class="text-base font-bold text-black md:text-[18px] font-neue mt-2">
-                  Pharmacies:
-                </p>
-                <p class="text-base text-black md:text-[18px] font-neue">
+              <div class="p-4 text-lg">
+                <p class="font-mono uppercase text-[#ABABAB]">04</p>
+                <p class="font-bold text-black font-neue mt-2">Pharmacies:</p>
+                <p class="text-black font-neue">
                   Licensing, inventory management, and quality systems
                 </p>
               </div>
@@ -106,9 +96,7 @@
     </section>
     <div class="bg-white py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black md:text-[40px] text-3xl md:leading-[2rem]">
-          Specialized Consulting Services
-        </h1>
+        <h1 class="text-black text-4xl">Specialized Consulting Services</h1>
         <div class="grid grid-cols-1 md:grid-cols-2 md:gap-6 md:my-8">
           <div class="mt-4">
             <span
@@ -126,8 +114,8 @@
                 />
               </svg>
             </span>
-            <p class="font-neue md:text-[18px] mt-2">Occupational Health & Safety</p>
-            <p class="text-gray-500 md:text-[16px]">
+            <p class="text-lg mt-2">Occupational Health & Safety</p>
+            <p class="text-[#7C7C7C] text-base">
               Workplace health risk assessments, surveillance programs, emergency
               planning, and industry-specific safety protocols for oil & gas,<br />
               construction, and manufacturing.
@@ -149,8 +137,8 @@
                 />
               </svg>
             </span>
-            <p class="font-neue md:text-[18px] mt-2">Health Insurance Services</p>
-            <p class="text-gray-500 md:text-[16px]">
+            <p class="text-lg mt-2">Health Insurance Services</p>
+            <p class="text-[#7C7C7C] text-[#7C7C7C] text-base">
               <b> HMO Advisory:</b>Program design, provider networks, claims optimization
               <b> Third-Party Administration:</b> Claims processing, member services,<br />
               financial management
@@ -161,28 +149,24 @@
     </div>
     <div class="bg-darkGray py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black md:text-[40px] pt-4 text-2xl md:leading-[2rem]">
-          System Optimization
-        </h1>
-        <div class="mt-8">
-          <h3 class="font-neue font-bold md:text-[18px] mt-4">Operational Excellence</h3>
-          <p class="md:mr-[30rem] md:text-[16px] text-base">
+        <h1 class="text-black pt-4 text-4xl">System Optimization</h1>
+        <div class="mt-8 text-base">
+          <h3 class="font-bold mt-4">Operational Excellence</h3>
+          <p class="md:mr-[30rem]">
             Process improvement, technology integration, staff productivity enhancement,
             and cost reduction strategies.
           </p>
         </div>
-        <div>
-          <h3 class="font-neue font-bold md:text-[18px] mt-4">Quality & Compliance</h3>
-          <p class="md:mr-[26rem] md:text-[16px] text-base">
+        <div class="text-base">
+          <h3 class="font-bold mt-4">Quality & Compliance</h3>
+          <p class="md:mr-[26rem]">
             Accreditation preparation, performance monitoring, regulatory compliance, and
             continuous improvement programs.
           </p>
         </div>
-        <div>
-          <h3 class="font-neue font-bold md:text-[18px] mt-4">
-            Healthcare Facility Audits
-          </h3>
-          <p class="md:mr-[26rem] md:text-[16px] text-base">
+        <div class="text-base">
+          <h3 class="font-boldmt-4">Healthcare Facility Audits</h3>
+          <p class="md:mr-[26rem]">
             Comprehensive assessments covering operational efficiency, regulatory
             compliance, quality management, and financial performance with actionable
             improvement recommendations.
@@ -192,42 +176,38 @@
     </div>
     <div class="bg-white py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black md:text-[40px] my-4 text-3xl md:leading-[2rem]">
-          Why Choose HIGC?
-        </h1>
+        <h1 class="font-neue text-black my-4 text-4xl">Why Choose HIGC?</h1>
         <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 md:my-8">
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
-            <p class="font-mono uppercase text-[#ABABAB]">01</p>
-            <div class="mt-20 pt-10">
+            <p class="font-mono uppercase text-xs text-[#ABABAB]">01</p>
+            <div class="mt-20 pt-10 text-base">
               <p class="font-bold">Proven Expertise:</p>
-              <p class="text-black md:text-[15px]">
+              <p class="text-black">
                 7+ years transforming healthcare operations across Nigeria
               </p>
             </div>
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
-            <p class="font-mono uppercase text-[#ABABAB]">02</p>
-            <div class="mt-20 pt-10">
+            <p class="font-mono text-xs uppercase text-[#ABABAB]">02</p>
+            <div class="mt-20 pt-10 text-base">
               <p class="font-bold">Comprehensive Solutions:</p>
-              <p class="text-black md:text-[15px]">
-                From facility setup to ongoing optimization
-              </p>
+              <p class="text-black">From facility setup to ongoing optimization</p>
             </div>
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
-            <p class="font-mono uppercase text-[#ABABAB]">03</p>
-            <div class="mt-20 pt-10">
+            <p class="font-mono text-xs uppercase text-[#ABABAB]">03</p>
+            <div class="mt-20 pt-10 text-base">
               <p class="font-bold">Industry Knowledge:</p>
-              <p class="text-black md:text-[15px]">
+              <p class="text-black">
                 Deep understanding of Nigerian healthcare landscape
               </p>
             </div>
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
-            <p class="font-mono uppercase text-[#ABABAB]">04</p>
-            <div class="mt-20 pt-10">
+            <p class="font-mono text-xs uppercase text-[#ABABAB]">04</p>
+            <div class="mt-20 pt-10 text-base">
               <p class="font-bold">Results-Driven:</p>
-              <p class="text-black md:text-[15px]">
+              <p class="text-black">
                 Measurable improvements in efficiency and patient outcomes
               </p>
             </div>

@@ -38,27 +38,27 @@
           <div class="md:mt-0 mt-4 text-[16px] md:py-6">
             <ul class="md:flex block md:space-y-0 space-y-4 justify-between px-4">
               <li>
-                <a href="/about/our-story" class="text-gray-500 hover:text-gray-700"
+                <a href="/about/our-story" class="text-[#7C7C7C] hover:text-gray-700"
                   >About HIGC</a
                 >
               </li>
               <li>
-                <a href="/services" class="text-gray-500 hover:text-gray-700"
+                <a href="/services" class="text-[#7C7C7C] hover:text-gray-700"
                   >Our Services</a
                 >
               </li>
               <li>
-                <a href="/products" class="text-gray-500 hover:text-gray-700"
+                <a href="/products" class="text-[#7C7C7C] hover:text-gray-700"
                   >Product Catalog</a
                 >
               </li>
               <li>
-                <a href="#" class="text-gray-500 hover:text-gray-700"
+                <a href="#" class="text-[#7C7C7C] hover:text-gray-700"
                   >Training Programs</a
                 >
               </li>
               <li>
-                <a href="#" class="text-gray-500 hover:text-gray-700"
+                <a href="#" class="text-[#7C7C7C] hover:text-gray-700"
                   >Career Opportunities</a
                 >
               </li>

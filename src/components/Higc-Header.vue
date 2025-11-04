@@ -47,7 +47,7 @@
         <li v-for="(item, index) in navItems" :key="index" class="relative">
           <button
             @click="toggleDropdown(index)"
-            class="flex items-center gap-1 hover:text-primary focus:outline-none"
+            class="flex items-center gap-1 text-sm text-[#7C7C7C] hover:text-primary focus:outline-none"
           >
             <router-link :to="item.link || '#'">{{ item.name }}</router-link>
             <svg
@@ -73,11 +73,11 @@
               v-if="openDropdown === index && item.dropdown"
               class="absolute left-0 mt-2 bg-white shadow-lg rounded-lg w-60 z-20"
             >
-              <ul class="py-2 text-gray-600">
+              <ul class="py-2 text-[#7C7C7C]">
                 <li v-for="(subItem, subIndex) in item.dropdown" :key="subIndex">
                   <router-link
                     :to="subItem.link || '#'"
-                    class="block px-4 py-2 hover:text-primary"
+                    class="block px-4 py-2 text-sm hover:text-primary"
                   >
                     {{ subItem.label }}
                   </router-link>
@@ -125,9 +125,7 @@
 
         <!-- Sidebar Content -->
         <div class="w-72 bg-white shadow-lg h-full flex flex-col">
-          <div
-            class="flex justify-between items-center px-4 py-4 border-b border-gray-200"
-          >
+          <div class="flex justify-between items-center px-4 py-4">
             <h2 class="text-lg font-bold text-gray-800"></h2>
             <button @click="toggleMenu" class="text-gray-700 hover:text-primary">
               <svg
@@ -151,10 +149,10 @@
             <li
               v-for="(item, index) in navItems"
               :key="'mobile-' + index"
-              class="border-b border-gray-100"
+              class="border-gray-100"
             >
               <button
-                class="w-full text-left px-4 py-3 flex justify-between items-center hover:bg-blue-50"
+                class="w-full text-left px-4 py-3 text-sm flex justify-between items-center hover:bg-blue-50"
                 @click="toggleDropdown(index)"
               >
                 <router-link :to="item.link || '#'">{{ item.name }}</router-link>
@@ -180,7 +178,7 @@
                 <li v-for="(subItem, subIndex) in item.dropdown" :key="'sub-' + subIndex">
                   <router-link
                     :to="subItem.link || '#'"
-                    class="block px-8 py-2 hover:bg-blue-100"
+                    class="block px-8 py-2 text-sm hover:bg-blue-100"
                   >
                     {{ subItem.label }}
                   </router-link>

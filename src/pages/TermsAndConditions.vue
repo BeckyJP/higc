@@ -6,12 +6,12 @@
           <h3 class="md:text-[56px] text-3xl leading-[4rem] font-neue">
             Terms And Conditions
           </h3>
-          <small class="font-mono text-gray-500"> Last updated: Jan 2025 </small>
+          <small class="font-mono text-[#7C7C7C]"> Last updated: Jan 2025 </small>
         </div>
         <div>
           <div>
             <h3 class="font-neue text-xl mt-4">1. Agreement to Terms</h3>
-            <p class="text-base leading-8 text-gray-500 my-4 md:mr-[16rem]">
+            <p class="text-base leading-8 text-[#7C7C7C] my-4 md:mr-[16rem]">
               By accessing our website (www.higcng.com), using our services, or purchasing
               our products, you agree to be bound by these Terms and Conditions. If you do
               not agree with any part of these terms, you may not use our services.
@@ -19,13 +19,13 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">2. About HIGC Health Consultants</h3>
-            <p class="text-base leading-8 text-gray-500 my-4 md:mr-[16rem]">
+            <p class="text-base leading-8 text-[#7C7C7C] my-4 md:mr-[16rem]">
               HIGC Health Consultants is a Nigerian social enterprise and healthcare
               consulting firm registered under Nigerian law. We provide healthcare
               consulting, medical equipment supply, training services, and medical
               outreach programs. Company Details:
             </p>
-            <ul class="list-disc mx-6 leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 leading-8 text-base text-[#7C7C7C]">
               <li>Registered Name: HIGC Health Consultants</li>
               <li>Registration: Nigerian Corporate Affairs Commission</li>
               <li>
@@ -39,37 +39,37 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">3. Services Offered</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               3.1 Healthcare Consulting Services
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Hospital setup, management, and audit</li>
               <li>Occupational health and safety solutions</li>
               <li>HMO advisory and third-party administration</li>
               <li>Healthcare system optimization</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
               3.2 Medical Equipment and Supplies
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Medical devices and diagnostic equipment</li>
               <li>Personal protective equipment (PPE)</li>
               <li>Pharmaceuticals and medical consumables</li>
               <li>Custom procurement solutions</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
               3.3 Training and Certification
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>BLS/ACLS certification programs</li>
               <li>Safe delivery practices training</li>
               <li>First aid and fire safety training</li>
               <li>E-Motive training for healthcare workers</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
               3.4 Medical Outreach Programs
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Community health screenings</li>
               <li>Maternal health support</li>
               <li>Vaccination services</li>
@@ -78,22 +78,22 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">4. Client Responsibilities</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               4.1 Accurate Information
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Provide accurate and complete information for all service requests</li>
               <li>Maintain current contact and billing information</li>
               <li>Notify us immediately of any changes affecting service delivery</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">4.2 Compliance</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">4.2 Compliance</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Comply with all applicable laws and regulations</li>
               <li>Use our products and services only for their intended purposes</li>
               <li>Maintain appropriate licenses and certifications as required</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">4.3 Payment Terms</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">4.3 Payment Terms</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Pay all fees according to agreed payment schedules</li>
               <li>Provide valid payment information</li>
               <li>Notify us of any billing discrepancies within 30 days</li>
@@ -101,16 +101,20 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">5. Product Terms and Warranties</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">5.1 Medical Equipment</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
+              5.1 Medical Equipment
+            </p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>All medical equipment comes with manufacturer warranties</li>
               <li>CE-certified products meet European conformity standards</li>
               <li>
                 Products are guaranteed to be genuine and new unless otherwise specified
               </li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">5.2 Product Liability</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
+              5.2 Product Liability
+            </p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Products must be used according to manufacturer instructions</li>
               <li>
                 Users are responsible for proper training and certification where required
@@ -118,10 +122,10 @@
               <li>HIGC provides training and support for proper product usage</li>
             </ul>
 
-            <p class="text-lg font-semibold text-gray-500 mt-2">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
               5.3 Returns and Exchanges
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Unopened, unused products may be returned within 30 days</li>
               <li>
                 Medical devices and sterile products may not be returned once opened
@@ -131,10 +135,10 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">6. Healthcare Services Terms</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               6.1 Professional Standards
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 All healthcare services are provided by licensed medical professionals
               </li>
@@ -146,10 +150,10 @@
                 protocols
               </li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
               6.2 Medical Consultation
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 Terms Consultations are provided for informational purposes and do not
                 replace <br />
@@ -164,8 +168,8 @@
                 services
               </li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">6.3 Confidentiality</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">6.3 Confidentiality</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 Medical information is protected under Nigerian healthcare confidentiality
                 laws
@@ -180,10 +184,10 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">7. Training and Certification Terms</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               7.1 Certification Programs
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 Certificates are issued only upon successful completion of all program
                 requirements
@@ -193,8 +197,10 @@
                 Participants must meet prerequisite requirements for advanced program
               </li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">7.2 Training Materials</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
+              7.2 Training Materials
+            </p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Training materials are provided for educational purposes only</li>
               <li>
                 Materials may not be reproduced or distributed without written permission
@@ -206,8 +212,8 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">8. Payment and Billing</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">8.1 Payment Terms</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">8.1 Payment Terms</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 Payment is due according to agreed schedules (typically 30 days for
                 corporate clients)
@@ -215,8 +221,8 @@
               <li>Late payments may incur additional charges</li>
               <li>Prices are quoted in Nigerian Naira unless otherwise specified</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">8.2 Pricing</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">8.2 Pricing</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Prices are subject to change with reasonable notice</li>
               <li>Custom quotes are valid for 30 days unless otherwise specified</li>
               <li>All prices exclude applicable taxes unless stated otherwise</li>
@@ -224,14 +230,14 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">9. Intellectual Property</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">9.1 HIGC Property</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">9.1 HIGC Property</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>HIGC name, logo, and trademarks are our intellectual property</li>
               <li>Training materials and methodologies are proprietary to HIGC</li>
               <li>Product innovations and designs are protected under applicable laws</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">9.2 Client Property</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">9.2 Client Property</p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Client data and proprietary information remain client property</li>
               <li>We maintain strict confidentiality of client business information</li>
               <li>Client logos and trademarks are used only with permission</li>
@@ -239,16 +245,18 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">10. Limitation of Liability</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               10.1 Service Limitations
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>HIGC's liability is limited to the fees paid for specific services</li>
               <li>We are not liable for indirect, consequential, or punitive damages</li>
               <li>Force majeure events may affect service delivery without liability</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">10.2 Medical Service</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
+              10.2 Medical Service
+            </p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>
                 Limitations Medical services are provided according to professional
                 standards
@@ -261,23 +269,25 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">11. Governing Law and Jurisdiction</h3>
-            <p class="text-base font-normal text-gray-500 mt-2">
+            <p class="text-base font-normal text-[#7C7C7C] mt-2">
               These Terms and Conditions are governed by Nigerian law. Any disputes will
               be resolved in <br />Nigerian courts with jurisdiction in Lagos State.
             </p>
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">12. Termination</h3>
-            <p class="text-lg font-semibold text-gray-500 mt-4">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-4">
               12.1 Either party may terminate services with:
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>30 days written notice for ongoing consulting arrangements</li>
               <li>Immediate termination for breach of these terms</li>
               <li>Completion of specific project deliverables</li>
             </ul>
-            <p class="text-lg font-semibold text-gray-500 mt-2">12.2 Upon Termination:</p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <p class="text-base font-semibold text-[#7C7C7C] mt-2">
+              12.2 Upon Termination:
+            </p>
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>All outstanding fees become immediately due</li>
               <li>Confidential information must be returned or destroyed</li>
               <li>
@@ -287,12 +297,12 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">13. Force Majeure</h3>
-            <p class="text-base font-normal text-gray-500 mt-2">
+            <p class="text-base font-normal text-[#7C7C7C] mt-2">
               HIGC is not liable for delays or failures in performance due to
               circumstances beyond our <br />
               reasonable control, including but not limited to:
             </p>
-            <ul class="list-disc mx-6 font-normal leading-8 text-base text-gray-500">
+            <ul class="list-disc mx-6 font-normal leading-8 text-base text-[#7C7C7C]">
               <li>Natural disasters and severe weather</li>
               <li>Government actions and regulatory changes</li>
               <li>Infrastructure failures and supply chain disruptions</li>
@@ -301,7 +311,7 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">14. Modifications to Terms</h3>
-            <p class="text-base font-normal leading-8 text-gray-500 mt-2">
+            <p class="text-base font-normal leading-8 text-[#7C7C7C] mt-2">
               We reserve the right to modify these Terms and Conditions at any time.
               Changes will be <br />posted on our website with an updated effective date.
               Continued use of our services <br />
@@ -310,7 +320,7 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">15. Severability</h3>
-            <p class="text-base font-normal leading-8 text-gray-500 mt-2">
+            <p class="text-base font-normal leading-8 text-[#7C7C7C] mt-2">
               If any provision of these Terms and Conditions is deemed invalid or
               unenforceable, the remaining provisions will continue in full force and
               effect.
@@ -318,7 +328,7 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">16. Contact Information</h3>
-            <p class="text-base leading-8 font-normal text-gray-500 mt-2">
+            <p class="text-base leading-8 font-normal text-[#7C7C7C] mt-2">
               For questions about these Terms and Conditions or our services: <br />
               HIGC Health Consultants <br />
               Email:
@@ -333,7 +343,7 @@
           </div>
           <div class="py-4">
             <h3 class="font-neue text-xl">17. Acknowledgment</h3>
-            <p class="text-base font-normal leading-8 text-gray-500 mt-2">
+            <p class="text-base font-normal leading-8 text-[#7C7C7C] mt-2">
               By using HIGC services or purchasing our products, you acknowledge that you
               have read, understood, and agree to be bound by these Terms and Conditions
               and our Privacy Policy.

@@ -2,7 +2,7 @@
   <button
     :type="type"
     :class="[
-      'inline-flex items-center justify-center gap-2 font-neue rounded-full transition-all duration-300',
+      'inline-flex items-center justify-center text-base font-[500] gap-2 font-neue rounded-full transition-all duration-300',
       variantClass,
       sizeClass,
       { 'opacity-50 cursor-not-allowed': disabled },
