@@ -234,14 +234,14 @@
           <div class="md:p-4 md:py-4 py-6">
             <h3 class="font-mono text-sm uppercase text-[#7C7C7C]">Leadership</h3>
             <p
-              class="text-[#7C7C7C] md:text-[40px] text[36px] md:leading-[2.5rem] md:py-6 my-4"
+              class="text-[#7C7C7C] md:text-[40px] text-[36px] leading-[2.5rem] md:py-6 my-2"
             >
               <b class="text-black">Led by Excellence: </b>
               Award-winning public health expert with 14+ years of experience. 2025 Sir
               Ahmadu Bello Sardauna Distinguished Platinum Award winner, recognized as an
               Icon of Societal Transformation.
             </p>
-            <div class="md:mt-20 md:pt-10">
+            <div class="md:mt-20 mt-8 md:pt-10">
               <BaseButton variant="primary" show-arrow icon-position="right"
                 ><router-link to="/team">Meet Our Team </router-link></BaseButton
               >
@@ -258,9 +258,7 @@
               class="w-full h-auto object-container md:hidden md:block md:object-cover rounded-t-2xl"
             />
             <div class="p-4 md:my-2">
-              <p class="md:text-[24px] text-[16px] font-neue font-semibold">
-                Dr. Owen Omo-Ojo (MD, MPH)
-              </p>
+              <p class="text-2xl font-neue font-semibold">Dr. Owen Omo-Ojo (MD, MPH)</p>
               <p class="text-[16px] text-[#7C7C7C]">Founder & Managing Director</p>
             </div>
           </div>
