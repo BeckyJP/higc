@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
-      <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr_2fr] gap-4">
+      <div class="grid grid-cols-[2fr_3fr_2fr] gap-4">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame8.webp"

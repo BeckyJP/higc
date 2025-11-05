@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
-      <div class="grid grid-cols-2 md:grid-cols-2 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 py-4 mt-6">
         <div>
           <p class="uppercase text-sm text-[#ABABAB]">Main Services</p>
           <h1 class="font-neue font-medium md:text-6xl my-3 text-4xl md:leading-[3.5rem]">
