@@ -6,12 +6,14 @@
       </p>
       <div>
         <h1
-          class="lg:text-[56px] font-neue text-[36px] md:leading-[4rem] leading-[3rem] text-[#ababab]"
+          class="lg:text-[56px] font-neue font-medium text-[36px] md:leading-[4rem] leading-[3rem] text-[#ababab]"
         >
-          <span class="text-black font-medium"> HIGC:</span> Bringing Quality Healthcare
-          Solutions to Nigeria and Africa
+          <span class="text-black font-neue font-medium"> HIGC:</span> Bringing Quality
+          Healthcare Solutions to Nigeria and Africa
         </h1>
-        <p class="text-base font-inter text-[#7C7C7C] leading-relaxing md:my-2 my-4">
+        <p
+          class="text-base font-inter md:pr-[6rem] text-[#7C7C7C] leading-relaxing md:my-2 my-4"
+        >
           From rural medical outreach to innovative healthcare manufacturing -
           comprehensive solutions led by award-winning public health expert Dr. Owen
           Omo-Ojo.
@@ -27,7 +29,9 @@
     <section class="md:mt-10 py-10 py-4 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6 pt-12">
         <p class="font-mono text-sm uppercase text-[#7C7C7C]">Stay updated</p>
-        <h3 class="md:text-4xl text-[36px] font-medium font-neue my-4">What we do</h3>
+        <h3 class="md:text-4xl text-[36px] font-medium font-neue md:my-4 my-2">
+          What we do
+        </h3>
         <p class="font-normal font-inter text-md text-[#7C7C7C]">
           We provide comprehensive quality healthcare solutions
         </p>
@@ -41,7 +45,7 @@
             <div class="p-4">
               <h3 class="font-neue font-medium text-2xl">Community Health Programs</h3>
               <p
-                class="text-[#7C7C7C] font-inter text-base mt-2 leading-[1.5rem] md:pr-[4rem]"
+                class="text-[#7C7C7C] font-inter text-base mt-2 leading-[1.5rem] md:pr-[2rem]"
               >
                 Free health screenings, maternal health support, and preventive care in
                 underserved communities across Nigeria.
@@ -158,7 +162,7 @@
           <h3 class="font-neue text-lg font-medium py-2 md:mt-4">
             Creating Healthier Communities
           </h3>
-          <p class="text-[#7C7C7C] font-inter leading-[1.5rem]">
+          <p class="text-[#7C7C7C] font-inter leading-[1.5rem] md:pr-[4rem] text-base">
             Reducing maternal mortality through innovation to strengthening health systems
             across Africa.
           </p>
@@ -188,7 +192,7 @@
           <h3 class="font-neue text-lg font-medium md:py-2 mt-4">
             Recent outreach Programs
           </h3>
-          <p class="text-[#7C7C7C] font-inter leading-[1.5rem]">
+          <p class="text-[#7C7C7C] font-inter leading-[1.5rem] md:pr-[2rem] text-base">
             Edo State • Lagos State • Plateau State • Rural Communities and active in 15+
             Nigerian states.
           </p>
@@ -216,7 +220,7 @@
             </svg>
           </span>
           <h3 class="font-neue text-lg font-medium py-2">Industries We Serve</h3>
-          <p class="text-[#7C7C7C] font-inter leading-[1.5rem]">
+          <p class="text-[#7C7C7C] font-inter leading-[1.5rem] md:pr-[1rem] text-base">
             Healthcare • Oil & Gas • Construction • FMCG • Government • NGOs reaching
             10,000+ people annually.
           </p>
@@ -259,7 +263,7 @@
               class="w-full h-auto object-container md:hidden md:block md:object-cover rounded-t-2xl"
             />
             <div class="p-4 md:my-2">
-              <p class="text-2xl font-neue font-semibold">Dr. Owen Omo-Ojo (MD, MPH)</p>
+              <p class="text-2xl font-neue font-medium">Dr. Owen Omo-Ojo (MD, MPH)</p>
               <p class="text-[16px] font-inter text-[#7C7C7C]">
                 Founder & Managing Director
               </p>
@@ -317,7 +321,7 @@
         </div>
         <div class="text-center">
           <div class="bg-gray-100 rounded-t-2xl p-6">
-            <h3 class="font-neue text-[22px]">
+            <h3 class="font-neue font-medium text-[22px]">
               Award-Winning <br />Leadership & Outcomes
             </h3>
             <p class="text-[#7C7C7C] font-inter leading-[1.5rem] px-4 text-[16px] my-2">

@@ -65,7 +65,7 @@
       </div>
       <div class="my-10">
         <p
-          class="text-black font-neue font-medium md:pr-[20rem] md:text-[40px] md:px-4 md:leading-[3.5rem] text-3xl"
+          class="text-black font-neue font-medium md:pr-[15rem] md:text-[40px] md:px-4 md:leading-[3.5rem] text-3xl"
         >
           We've built our reputation through consistent delivery of quality healthcare
           solutions across Africa. Over a decade transforming healthcare through medical

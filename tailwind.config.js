@@ -4,9 +4,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        neue: ['"PP Neue Montreal"'],
-        inter: ['Inter'],
-        mono: ['"DM Mono"'],
+        neue: ['"PP Neue Montreal"', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        mono: ['"DM Mono"', 'monospace'],
       },
       colors: {
         primary: '#64C700',
