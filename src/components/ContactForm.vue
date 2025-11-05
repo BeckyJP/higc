@@ -1,10 +1,10 @@
 <template>
   <section class="md:py-12 py-10">
     <div class="max-w-screen-xl mx-auto px-6">
-      <h2 class="font-neue text-[32px] md:text-[40px]">
+      <h2 class="font-neue font-medium text-[32px] md:text-[40px]">
         Ready to Innovate Healthcare Together?
       </h2>
-      <p class="text-base md:pr-40 my-2 text-[#7C7C7C] leading-relaxing">
+      <p class="text-base font-inter md:pr-40 my-2 text-[#7C7C7C] leading-relaxing">
         Whether you need healthcare consulting, medical supplies, training programs, or
         partnership for community health initiatives, we have the expertise and passion to
         deliver results.
@@ -27,11 +27,11 @@
                   />
                 </svg>
               </span>
-              <p class="text-[16px] font-neue font-semibold">Email</p>
-              <p class="text-[#7C7C7C] text-sm py-2">
+              <p class="text-[16px] font-neue font-medium">Email</p>
+              <p class="text-[#7C7C7C] font-inter text-sm py-2">
                 Stay updated and get in touch directly.
               </p>
-              <p class="py-4 text-sm font-semibold">info@higcng.com</p>
+              <p class="py-4 font-inter text-sm font-semibold">info@higcng.com</p>
             </div>
             <div>
               <span class="mb-1 inline-block">
@@ -48,14 +48,14 @@
                   />
                 </svg>
               </span>
-              <p class="text-[16px] font-neue font-semibold">WhatsApp</p>
-              <p class="text-[#7C7C7C] text-sm py-2">
+              <p class="text-[16px] font-neue font-medium">WhatsApp</p>
+              <p class="text-[#7C7C7C] font-inter text-sm py-2">
                 Message us anytime for quick help.
               </p>
-              <p class="py-4 text-sm font-inter font-semibold">+234 916 000 8396</p>
+              <p class="py-4 font-mono text-xs font-semibold">+234 916 000 8396</p>
             </div>
           </div>
-          <div class="grid grid-cols-2 md:grid-cols-2 gap-4 pt-8">
+          <div class="grid grid-cols-2 md:grid-cols-2 gap-4 pt-16">
             <div>
               <span class="mb-1 inline-block">
                 <svg
@@ -71,9 +71,11 @@
                   />
                 </svg>
               </span>
-              <p class="text-[16px] font-neue font-semibold">Office</p>
-              <p class="text-[#7C7C7C] text-sm py-2">Visit or write to us at:</p>
-              <p class="py-4 text-sm font-semibold">
+              <p class="text-base font-neue font-medium">Office</p>
+              <p class="text-[#7C7C7C] font-inter text-sm py-2">
+                Visit or write to us at:
+              </p>
+              <p class="py-4 font-inter text-xs font-semibold">
                 24B Bashorun Okusanya Avenue, off Admiralty Road, Lekki Phase One, Lagos,
                 Nigeria
               </p>
@@ -93,9 +95,11 @@
                   />
                 </svg>
               </span>
-              <p class="text-[16px] font-neue font-semibold">Phone</p>
-              <p class="text-[#7C7C7C] text-sm py-2">Speak to our team for support.</p>
-              <p class="py-4 text-sm font-semibold">+234 916 000 8396</p>
+              <p class="text-[16px] font-neue font-medium">Phone</p>
+              <p class="text-[#7C7C7C] font-inter text-sm py-2">
+                Speak to our team for support.
+              </p>
+              <p class="py-4 font-mono text-xs font-semibold">+234 916 000 8396</p>
             </div>
           </div>
         </div>

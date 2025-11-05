@@ -6,10 +6,12 @@
           <p class="font-mono uppercase text-sm text-[#7C7C7C]">
             Empowering Healthcare Workers Across Africa
           </p>
-          <h1 class="font-neue md:text-[56px] mt-2 text-4xl md:leading-[4rem]">
+          <h1
+            class="font-neue font-medium md:text-[56px] mt-2 text-4xl md:leading-[4rem]"
+          >
             Community Health Programs
           </h1>
-          <p class="md:pr-[25rem] text-base text-[#7C7C7C] my-2">
+          <p class="md:pr-[25rem] font-inter text-base text-[#7C7C7C] my-2">
             Build a skilled healthcare workforce capable of delivering quality care in
             every African community through comprehensive healthcare training programs.
           </p>
@@ -45,11 +47,11 @@
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
           <h1
-            class="font-neue text-black md:text-4xl py-3 mt-4 text-2xl md:leading-[2rem]"
+            class="font-neue text-black text-4xl py-3 mt-4 font-medium font-medium md:leading-[2rem]"
           >
             Clinical Skills Development
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             Enhance your clinical expertise with advanced training modules, skill-building
             resources, and evidence-based protocols
           </p>
@@ -64,20 +66,20 @@
             <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black font-medium text-lg font-neue mt-2">
                   E-Motive Training: Advanced clinical skills for healthcare workers
                 </p>
               </div>
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">02</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black font-medium text-lg font-neue mt-2">
                   Safe Delivery Practices: Evidence-based training for traditional birth
                   attendants
                 </p>
               </div>
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">03</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black font-medium text-lg font-neue mt-2">
                   BLS/ACLS Certification: Basic and Advanced Life Support programs
                 </p>
               </div>
@@ -89,10 +91,12 @@
     <section class="bg-white md:py-6 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <h1 class="font-neue text-black md:text-4xl py-3 mt-4 md:leading-[2rem]">
+          <h1
+            class="font-neue font-medium text-black md:text-4xl py-3 mt-4 md:leading-[2rem]"
+          >
             Safety & Emergency Training
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             Strengthen emergency preparedness with critical safety training, response
             procedures, and prevention strategies.
           </p>
@@ -107,19 +111,19 @@
             <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black text-lg font-medium font-neue mt-2">
                   First-Aid Training: Workplace and community emergency response
                 </p>
               </div>
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">02</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black text-lg font-medium font-neue mt-2">
                   Fire Safety Programs: Prevention and response protocols
                 </p>
               </div>
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">03</p>
-                <p class="text-black text-lg font-neue mt-2">
+                <p class="text-black text-lg font-medium font-neue mt-2">
                   Occupational Safety: Industry-specific health and safety training
                 </p>
               </div>
@@ -130,11 +134,11 @@
     </section>
     <div class="bg-darkGray py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black text-4xl pt-4 md:leading-[2rem]">
+        <h1 class="font-inter font-medium text-black text-4xl pt-4 md:leading-[2rem]">
           Customized Solutions
         </h1>
         <div class="grid grid-cols-1 md:grid-cols-1 gap-4 md:my-4 my-2">
-          <p class="text-base mt-2 font-neue font-normal leading-[2rem] md:w-[600px]">
+          <p class="text-base mt-2 font-inter font-normal leading-[2rem] md:w-[600px]">
             <b>Train-the-Trainer Programs:</b> Building local training capacity with
             curriculum development, certification maintenance, and quality assurance
             systems.<br />
@@ -148,27 +152,27 @@
     </div>
     <div class="bg-white md:py-10 py-8">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black text-4xl mt-4 md:leading-[2rem]">
+        <h1 class="font-inter font-medium text-black text-4xl mt-4 md:leading-[2rem]">
           Enrollment Options
         </h1>
         <div class="grid grid-cols-1 md:grid-cols-3 md:gap-4 my-8">
           <div class="bg-gray-100 p-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-[#ABABAB]">01</p>
-            <div class="mt-16">
+            <div class="mt-16 font-inter">
               <p class="font-bold">Individual Programs</p>
               <p class="text-black text-base">Monthly schedules available</p>
             </div>
           </div>
           <div class="bg-gray-100 p-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-[#ABABAB]">02</p>
-            <div class="mt-16">
+            <div class="mt-16 font-inter">
               <p class="font-bold">Corporate Training</p>
               <p class="text-black text-base">Flexible on-site delivery</p>
             </div>
           </div>
           <div class="bg-gray-100 p-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-[#ABABAB]">03</p>
-            <div class="mt-16">
+            <div class="mt-16 font-inter">
               <p class="font-bold">Certification Support</p>
               <p class="text-black text-base">Ongoing maintenance programs</p>
             </div>

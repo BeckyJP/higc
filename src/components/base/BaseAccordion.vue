@@ -1,7 +1,7 @@
 <template>
   <li class="bg-gray-100 py-4 my-4 rounded-lg px-4">
     <button class="w-full flex items-center justify-between" @click="FaqToggle">
-      <p class="text-base lg:text-lg text-left font-neue">
+      <p class="text-base font-medium text-left font-neue">
         {{ props.item.question }}
       </p>
       <span class="p-1">
@@ -25,12 +25,12 @@
     </button>
     <div v-if="isOpen" class="mt-5">
       <template v-if="item.type === 'text'">
-        <p class="text-base pr-6 lg:pr-12">
+        <p class="text-base font-neue pr-6 lg:pr-12">
           {{ item.answer }}
         </p>
       </template>
       <template v-else-if="item.type === 'video'">
-        <p class="text-base my-4 pr-6 lg:pr-12">
+        <p class="text-base font-neue font-medium my-4 pr-6 lg:pr-12">
           {{ item.answer }}
         </p>
         <div class="video-container">

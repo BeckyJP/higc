@@ -2,7 +2,7 @@
   <button
     :type="type"
     :class="[
-      'inline-flex items-center justify-center text-base font-medium gap-2 font-neue rounded-full transition-all duration-300',
+      'inline-flex items-center justify-center text-base font-medium gap-2 font-inter rounded-full transition-all duration-300',
       variantClass,
       sizeClass,
       { 'opacity-50 cursor-not-allowed': disabled },
@@ -60,15 +60,15 @@ const props = defineProps({
 const variantClass = computed(() => {
   switch (props.variant) {
     case "primary":
-      return "bg-primary text-white hover:bg-primary/90";
+      return "bg-primary text-white font-inter hover:bg-primary/90";
     case "secondary":
-      return "bg-gray-200 text-gray-800 hover:bg-gray-300";
+      return "bg-gray-200 text-gray-800 font-inter hover:bg-gray-300";
     case "outline":
-      return "border border-primary text-primary hover:bg-primary hover:text-white";
+      return "border border-primary font-inter text-primary hover:bg-primary hover:text-white";
     case "text":
-      return "text-primary hover:underline";
+      return "text-primary hover:underline  font-inter";
     default:
-      return "bg-primary text-white";
+      return "bg-primary text-white font-inter";
   }
 });
 

@@ -3,14 +3,18 @@
     <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-4 mt-6">
         <div>
-          <p class="font-mono text-sm text-[#7C7C7C]">Main Services</p>
-          <h1 class="font-neue md:text-[56px] text-4xl md:leading-[4rem]">
+          <p class="font-mono text-sm text-[#7C7C7C] my-2">Main Services</p>
+          <h1
+            class="font-neue font-medium md:pr-[3rem] md:text-[56px] text-4xl md:leading-[4rem]"
+          >
             Comprehensive Healthcare Solutions
             <span class="text-[#ABABAB]"> Across Nigeria </span>
           </h1>
         </div>
         <div class="md:pt-6 pt-4 md:px-4">
-          <p class="text-[#7C7C7C] leading-[1.5rem] text-base">
+          <p
+            class="text-[#7C7C7C] font-inter md:pr-6 font-normal leading-[1.5rem] text-base"
+          >
             From community health outreach to advanced medical manufacturing, HIGC
             delivers complete healthcare consulting Nigeria services through our five
             specialized pillars of impact.
@@ -36,11 +40,11 @@
         <div class="mb-10">
           <p class="text-[#7C7C7C] font-mono uppercase text-sm my-4">Stay updated</p>
           <h1
-            class="font-neue text-black md:text-4xl py-3 mt-4 text-2xl md:leading-[2rem]"
+            class="font-neue font-medium text-black text-4xl py-3 mt-4 md:leading-[2rem]"
           >
             These are the Five Service Pillars we provide
           </h1>
-          <p class="text-[#7C7C7C]">
+          <p class="text-[#7C7C7C] text-base font-inter">
             Our multi-faceted approach ensures comprehensive healthcare support from
             grassroots to clinical levels.
           </p>
@@ -67,8 +71,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-2">Community Health Programs</p>
-              <p class="text-base text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue mt-2">
+                Community Health Programs
+              </p>
+              <p class="text-base font-inter text-[#7C7C7C]">
                 Free health services and community programs that reach underserved
                 populations across Nigeria, combining medical care with education and
                 empowerment.
@@ -97,8 +103,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-2">Medical & Safety Supplies</p>
-              <p class="text-base text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue mt-2">
+                Medical & Safety Supplies
+              </p>
+              <p class="text-base font-inter text-[#7C7C7C]">
                 Comprehensive medical equipment supplier Lagos services providing
                 certified products for healthcare facilities, industrial sectors, and
                 safety-critical operations.
@@ -127,10 +135,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-2">
+              <p class="text-2xl font-medium text-black font-neue mt-2">
                 Healthcare Innovation & Manufacturing
               </p>
-              <p class="text-base text-[#7C7C7C]">
+              <p class="text-base font-inter text-[#7C7C7C]">
                 Innovative medical devices designed for African healthcare challenges,
                 manufactured to international standards with local understanding.
               </p>
@@ -158,10 +166,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-2">
+              <p class="text-2xl font-medium text-black font-neue mt-2">
                 Healthcare Consulting & Administration
               </p>
-              <p class="text-base text-[#7C7C7C]">
+              <p class="text-base font-inter text-[#7C7C7C]">
                 End-to-end healthcare consulting Nigeria services from facility setup to
                 system optimization, helping organizations deliver better healthcare
                 outcomes.
@@ -190,10 +198,10 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-2">
+              <p class="text-2xl font-medium text-black font-neue mt-2">
                 Medical Outreach & Social Impact
               </p>
-              <p class="text-base text-[#7C7C7C]">
+              <p class="text-base font-inter text-[#7C7C7C]">
                 Professional development and certification programs that build local
                 healthcare capacity and improve service delivery across Africa.
               </p>
@@ -206,14 +214,14 @@
     <div class="bg-white md:my-10 pb-6">
       <div class="max-w-screen-xl mx-auto px-6">
         <h1
-          class="font-neue text-black md:text-[40px] md:py-6 mt-4 text-2xl md:leading-[2rem]"
+          class="font-neue text-black md:text-[40px] md:py-6 mt-4 text-2xl font-medium md:leading-[2rem]"
         >
           Why Choose HIGC?
         </h1>
         <div class="grid grid-cols-1 md:grid-cols-4 gap-4 my-8">
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">01</p>
-            <div class="mt-20">
+            <div class="mt-20 font-inter">
               <p class="font-bold">Integrated Approach</p>
               <p class="text-black md:text-base">
                 All services work together for maximum impact
@@ -222,7 +230,7 @@
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">02</p>
-            <div class="mt-20">
+            <div class="mt-20 font-inter">
               <p class="font-bold text-base">Local Expertise</p>
               <p class="text-black text-base">
                 Nigerian solutions for African healthcare challenges
@@ -231,7 +239,7 @@
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">03</p>
-            <div class="mt-20">
+            <div class="mt-20 font-inter">
               <p class="font-bold text-base">Quality Assurance</p>
               <p class="text-black text-base">
                 International standards with local accessibility
@@ -240,7 +248,7 @@
           </div>
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">04</p>
-            <div class="mt-20 text-base">
+            <div class="mt-20 font-inter text-base">
               <p class="font-bold">Proven Results</p>
               <p class="text-black">7+ years of measurable healthcare improvements</p>
             </div>

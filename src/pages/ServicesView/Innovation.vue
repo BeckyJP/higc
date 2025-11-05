@@ -43,15 +43,19 @@
     </div>
     <section class="bg-darkGray md:py-10 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <div class="md:px-8 px-2 mb-10">
-          <h1 class="font-neue text-black py-3 mt-4 text-4xl md:leading-[2rem]">
+        <div class="px-2 mb-10">
+          <h1
+            class="font-neue font-medium text-black py-4 mt-4 text-4xl md:leading-[2rem]"
+          >
             Our Flagship Innovation
           </h1>
-          <p class="text-[#7C7C7C] text-base">
-            <b class="text-[#ABABAB]"> HIGC Calibrated Maternity Drape: </b> Life-saving
-            device for postpartum hemorrhage prevention - addressing the leading cause of
-            maternal mortality in Nigeria. CE-certified and deployed across healthcare
-            facilities.
+          <p class="text-[#7C7C7C] font-inter text-base">
+            <span class="text-[#ABABAB] font-bold">
+              HIGC Calibrated Maternity Drape:
+            </span>
+            Life-saving device for postpartum hemorrhage prevention - addressing the
+            leading cause of maternal mortality in Nigeria. CE-certified and deployed
+            across healthcare facilities.
           </p>
           <div class="mt-6">
             <img
@@ -66,10 +70,12 @@
     <section class="bg-white md:py-6 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <h1 class="font-neue text-black py-3 mt-4 text-4xl md:leading-[2rem]">
+          <h1
+            class="font-neue font-medium text-black py-3 mt-4 text-4xl md:leading-[2rem]"
+          >
             Manufacturing Excellence
           </h1>
-          <p class="text-[#7C7C7C] text-base">Quality Standards</p>
+          <p class="text-[#7C7C7C] font-inter text-base">Quality Standards</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
           <div class="">
@@ -81,26 +87,26 @@
             <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4">
               <div class="p-4 text-lg">
                 <p class="font-mono uppercase text-[#ABABAB]">01</p>
-                <p class="text-black md:text-[18px] font-neue mt-2">
+                <p class="text-black text-lg font-medium font-neue mt-2">
                   CE-certified manufacturing partnerships
                 </p>
               </div>
               <div class="p-4 text-lg">
                 <p class="font-mono uppercase text-[#ABABAB]">02</p>
-                <p class="text-black md:text-[18px] font-neue mt-2">
+                <p class="text-black md:text-lg md:pr-[3rem] font-medium font-neue mt-2">
                   ISO quality management systems
                 </p>
               </div>
               <div class="p-4 text-lg">
                 <p class="font-mono uppercase text-[#ABABAB]">03</p>
-                <p class="text-black font-neue mt-2">
+                <p class="text-black text-lg md:pr-[3rem] font-medium font-neue mt-2">
                   Rigorous testing and validation protocols
                 </p>
               </div>
               <div class="p-4 text-lg">
                 <p class="font-mono uppercase text-[#ABABAB]">04</p>
-                <p class="text-black font-neue mt-2">
-                  Rigorous testing and validation protocols
+                <p class="text-black text-lg md:pr-[3rem] font-medium font-neue mt-2">
+                  Continuous improvement processes
                 </p>
               </div>
             </div>
@@ -110,12 +116,12 @@
     </section>
     <div class="bg-darkGray py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black text-4xl pt-4 md:leading-[2rem]">
+        <h1 class="font-inter text-black font-medium text-4xl pt-4 md:leading-[2rem]">
           Innovation Focus Areas
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 my-4">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 my-2">
           <p
-            class="text-base mt-2 font-neue text-black md:mr-[26rem] font-normal leading-[1.8rem]"
+            class="text-base mt-2 font-inter text-[#000000] text-black md:pr-[34rem] font-normal leading-[1.8rem]"
           >
             Maternal and child health devices, emergency medical equipment, primary
             healthcare tools, and diagnostic solutions.
@@ -125,13 +131,13 @@
     </div>
     <div class="bg-white py-10">
       <div class="max-w-screen-xl mx-auto px-6">
-        <h1 class="font-neue text-black text-4xl my-4 md:leading-[2rem]">
+        <h1 class="font-neue font-medium text-black text-4xl my-4 md:leading-[2rem]">
           Why Choose HIGC?
         </h1>
         <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 md:my-8">
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-xs text-[#ABABAB]">01</p>
-            <div class="mt-20 pt-10">
+            <div class="mt-20 pt-10 font-inter font-medium">
               <p class="font-bold">Local Understanding:</p>
               <p class="text-black text-base">
                 Nigerian-designed solutions for African healthcare challenges
@@ -140,7 +146,7 @@
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-xs text-[#ABABAB]">02</p>
-            <div class="mt-20 pt-10">
+            <div class="mt-20 pt-10 font-inter font-medium">
               <p class="font-bold">International Standards:</p>
               <p class="text-black text-base">
                 CE certification and global quality compliance
@@ -149,7 +155,7 @@
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-xs text-[#ABABAB]">03</p>
-            <div class="mt-20 pt-10">
+            <div class="mt-20 pt-10 font-inter font-medium">
               <p class="font-bold">Proven Impact:</p>
               <p class="text-black text-base">
                 Devices actively saving lives across Nigeria and Africa
@@ -158,7 +164,7 @@
           </div>
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-xs text-[#ABABAB]">04</p>
-            <div class="mt-20 pt-10">
+            <div class="mt-20 pt-10 font-inter">
               <p class="font-bold">Custom Capability:</p>
               <p class="text-black text-base">
                 Tailored solutions for specific healthcare needs

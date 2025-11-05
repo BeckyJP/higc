@@ -1,6 +1,6 @@
 <template>
   <div class="my-4">
-    <h2 class="text-lg font-neue py-6">Mission & Vision</h2>
+    <h2 class="text-lg font-neue font-medium py-6">Mission & Vision</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="text-left rounded-2xl bg-darkGray p-6">
         <span
@@ -17,8 +17,8 @@
             />
           </svg>
         </span>
-        <p class="text-[18px] font-neue text-black mt-2">Our Mission</p>
-        <p class="text-base text-[#7C7C7C]">
+        <p class="text-lg font-medium font-neue text-black mt-2">Our Mission</p>
+        <p class="text-base text-[#7C7C7C] md:pr-16">
           Provide comprehensive healthcare consulting Nigeria solutions through medical
           equipment supply, healthcare training programs, and occupational health
           services.
@@ -39,15 +39,15 @@
             />
           </svg>
         </span>
-        <p class="text-lg font-neue text-black mt-2">Our Vision</p>
-        <p class="text-basetext-[#7C7C7C]">
+        <p class="text-lg font-medium font-neue text-black mt-2">Our Vision</p>
+        <p class="text-base text-[#7C7C7C] md:pr-16">
           Be Africa's leading healthcare consulting firm advancing medical solutions and
           healthcare innovation across the continent.
         </p>
       </div>
     </div>
     <div class="my-4">
-      <h2 class="text-4xl font-neue py-6">Core Value</h2>
+      <h2 class="text-4xl font-medium font-neue py-6">Core Value</h2>
       <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -64,7 +64,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Excellence</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Excellence</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -81,7 +81,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Compassion</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Compassion</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -98,7 +98,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Integrity</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Integrity</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -115,7 +115,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Collaboration</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Collaboration</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -132,7 +132,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Impact</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Impact</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -149,7 +149,7 @@
               />
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Innovation</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Innovation</p>
         </div>
         <div class="text-left rounded-2xl bg-gray-100 p-6">
           <span
@@ -181,7 +181,7 @@
               </defs>
             </svg>
           </span>
-          <p class="text-lg text-black font-neue mt-2">Sustainability</p>
+          <p class="text-lg text-black font-medium font-neue mt-2">Sustainability</p>
         </div>
         <div class="item-center flex flex-col pt-8">
           <BaseButton variant="small">

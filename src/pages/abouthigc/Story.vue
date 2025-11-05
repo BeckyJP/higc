@@ -3,14 +3,14 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-4">
       <div class="grid grid-cols-1 md:grid-cols-2 md:py-4 md:mt-6">
         <div>
-          <h1 class="font-neue md:text-6xl text-[30px] md:leading-[4rem]">
-            Leading Healthcare Consulting Nigeria
+          <h1 class="font-neue font-medium md:text-6xl text-[40px] md:leading-[4rem]">
+            Leading Healthcare Consulting Nigeria <br />
             <span class="text-[#ABABAB]">Since </span>
             <span class="text-[#ABABAB] font-mono">2018 </span>
           </h1>
         </div>
         <div class="pt-6 md:px-8">
-          <p class="text-[#7C7C7C] leading-[1.5rem] text-md">
+          <p class="text-[#7C7C7C] leading-[1.5rem] text-base">
             Nigeria's premier healthcare consulting firm and medical equipment supplier,
             transforming lives across Africa.
           </p>
@@ -65,7 +65,7 @@
       </div>
       <div class="my-10">
         <p
-          class="text-black font-neue font-bold md:text-[40px] md:px-4 md:leading-[3.5rem] text-2xl"
+          class="text-black font-neue font-medium md:pr-[20rem] md:text-[40px] md:px-4 md:leading-[3.5rem] text-3xl"
         >
           We've built our reputation through consistent delivery of quality healthcare
           solutions across Africa. Over a decade transforming healthcare through medical
@@ -98,7 +98,9 @@
       </div>
       <CoreValue />
       <div>
-        <h2 class="text-4xl text-black font-neue pt-10">What Makes Us Different</h2>
+        <h2 class="text-4xl font-medium text-black font-neue pt-16">
+          What Makes Us Different
+        </h2>
         <div class="grid grid-cols-1 md:grid-cols-[2fr_3fr] gap-2 mt-6">
           <div class="px-6 bg-gray-100 rounded-2xl">
             <div class="mt-8">
@@ -106,7 +108,7 @@
                 1. Social Enterprise Approach
               </p>
               <p
-                class="text-black text-xl text-neue md:text-[36px] md:leading-[2.5rem] md:mt-24 mt-12 py-6"
+                class="text-black text-xl font-medium font-neue md:text-[36px] md:leading-[2.5rem] md:mt-24 mt-12 py-6"
               >
                 Forecast upcoming transactions and strategically allocate resources using
                 advanced modeling techniques.
@@ -116,7 +118,7 @@
           <div class="md:px-8">
             <div class="bg-gray-100 p-4 mb-4 rounded-2xl">
               <p class="my-4 font-mono text-base uppercase">2. Cash Planning</p>
-              <p class="text-black md:text-2xl md:mt-12">
+              <p class="text-black font-neue font-medium md:text-2xl md:mt-12">
                 Anticipate future financial activity and align capital needs with
                 precision using cutting-edge forecasting tools.
               </p>
@@ -124,13 +126,13 @@
             <div class="flex md:flex-nowrap flex-wrap gap-4">
               <div class="bg-gray-100 p-4 rounded-2xl">
                 <p class="font-mono uppercase text-md">3.Flow Insights</p>
-                <p class="text-black text-2xl mt-16 mb-4">
+                <p class="text-black font-neue font-medium text-2xl mt-16 mb-4">
                   Stay ahead of cash flow trends.
                 </p>
               </div>
               <div class="bg-gray-100 p-4 rounded-2xl">
                 <p class="font-mono uppercase text-md">4. Financial Moves</p>
-                <p class="text-black text-2xl mt-16 mb-4">
+                <p class="text-black font-neue font-medium text-2xl mt-16 mb-4">
                   Use predictive analytics to plan smarter changes.
                 </p>
               </div>

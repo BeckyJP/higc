@@ -4,13 +4,15 @@
       <div class="grid grid-cols-2 md:grid-cols-2 py-4 mt-6">
         <div>
           <p class="uppercase text-sm text-[#ABABAB]">Main Services</p>
-          <h1 class="font-neue md:text-6xl my-3 text-4xl md:leading-[4rem]">
+          <h1 class="font-neue font-medium md:text-6xl my-3 text-4xl md:leading-[3.5rem]">
             Essential Medical Technology for
-            <span class="text-[#ABABAB]">Superior Healthcare</span>
           </h1>
+          <span class="text-[#ABABAB] font-neue font-medium md:text-6xl text-4xl"
+            >Superior Healthcare</span
+          >
         </div>
         <div class="pt-12 md:px-8">
-          <p class="text-[#7C7C7C] leading-[1.5rem] text-base">
+          <p class="text-[#7C7C7C] font-inter leading-[1.5rem] text-base">
             Transform your healthcare facility with our comprehensive range of medical
             equipment and devices, sourced from trusted manufacturers and backed by CE
             certifications where applicable.
@@ -26,12 +28,10 @@
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
           <p class="text-[#7C7C7C] font-mono uppercase text-sm my-3">Stay Equipped</p>
-          <h1
-            class="font-neue text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
-          >
+          <h1 class="font-neue font-medium text-black text-4xl py-3 mt-2">
             Medical Equipments & Devices
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] text-base font-inter">
             Discover reliable devices and tools designed to support accurate care and
             efficient practice.
           </p>
@@ -45,7 +45,7 @@
             />
             <div class="px-6 md:py-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 BLS and ACLS Ambulances
               </p>
@@ -59,7 +59,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 On-site Testing Machines
               </p>
@@ -73,7 +73,7 @@
             />
             <div class="md:p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 BP monitors
               </p>
@@ -87,7 +87,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Stethoscopes
               </p>
@@ -101,7 +101,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Syringes, Needles, and Cannulas
               </p>
@@ -115,7 +115,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Rapid Test Kits
               </p>
@@ -129,7 +129,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Drug and Alcohol Test Kits
               </p>
@@ -143,7 +143,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Hospital and diagnostic equipment
               </p>
@@ -157,7 +157,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 CPAP, BIPAP Machines and Ventilators
               </p>
@@ -171,7 +171,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Autoclaves
               </p>
@@ -185,11 +185,11 @@
         <div class="mb-10">
           <p class="text-[#7C7C7C] uppercase text-sm my-3">Stay Stocked</p>
           <h1
-            class="font-neue text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
+            class="font-neue font-medium text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
           >
             Medical Supplies & Consumables
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             Access essential supplies and consumables that keep your facility prepared for
             daily demands.
           </p>
@@ -203,7 +203,7 @@
             />
             <div class="px-6 py-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Calibrated Maternity Drapes
               </p>
@@ -217,7 +217,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Calibrated Maternity Trays
               </p>
@@ -231,7 +231,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Physician Starter Kits
               </p>
@@ -245,7 +245,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 First Aid Kits
               </p>
@@ -259,7 +259,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Nitrile Powder-Free Examination Gloves
               </p>
@@ -273,7 +273,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Latex Powdered Examination Gloves
               </p>
@@ -287,7 +287,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Sterile Surgical Gloves
               </p>
@@ -301,7 +301,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Isolation and Surgical Gowns
               </p>
@@ -315,7 +315,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Biohazard Spill Kits
               </p>
@@ -329,7 +329,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Biohazard Bags
               </p>
@@ -343,7 +343,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Biohazard Sharps Container
               </p>
@@ -357,7 +357,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Disinfectant Products
               </p>
@@ -371,7 +371,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Thermometers
               </p>
@@ -385,7 +385,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Face masks
               </p>
@@ -399,7 +399,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Face shields
               </p>
@@ -413,7 +413,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Reagents and Lab Cleaning Solutions
               </p>
@@ -425,13 +425,13 @@
     <section class="bg-darkGray md:py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] uppercase text-sm my-3">Stay Protected</p>
+          <p class="text-[#7C7C7C] text-mono uppercase text-sm my-3">Stay Protected</p>
           <h1
-            class="font-neue text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
+            class="font-neue font-medium text-black text-4xl py-3 mt-2 md:leading-[2rem]"
           >
             Safety & Protection Equipment
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             Equip your staff with trusted gear to ensure safety in every healthcare
             environment.
           </p>
@@ -445,7 +445,7 @@
             />
             <div class="px-6 py-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Biohazard Coveralls
               </p>
@@ -459,7 +459,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Protective eye goggles
               </p>
@@ -473,7 +473,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Impact-resistant and customized hard hats
               </p>
@@ -487,7 +487,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Fire retardant coveralls
               </p>
@@ -501,7 +501,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Safety shoes
               </p>
@@ -515,7 +515,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Reflective jackets
               </p>
@@ -529,7 +529,7 @@
             />
             <div class="p-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Life jackets
               </p>
@@ -543,11 +543,11 @@
         <div class="mb-10">
           <p class="text-[#7C7C7C] font-mono uppercase text-sm my-3">Stay Ready</p>
           <h1
-            class="font-neue text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
+            class="font-neue font-medium text-black mtext-4xl py-3 mt-2 md:leading-[2rem]"
           >
             Training Equipment
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             Build confidence and skills with training tools and resources made for
             real-world situations.
           </p>
@@ -561,7 +561,7 @@
             />
             <div class="px-6 py-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Mannequins and HSSE training tools
               </p>
@@ -575,7 +575,7 @@
             />
             <div class="px-6 py-4">
               <p
-                class="md:text-[22px] text-base leading-[2rem] text-black font-neue md:mt-2"
+                class="md:text-[22.51px] font-inter font-medium text-base leading-[2rem]"
               >
                 Hospital furniture
               </p>
@@ -587,54 +587,78 @@
     <section class="bg-darkGray md:py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] uppercase text-sm my-3">
+          <p class="text-[#7C7C7C] font-mono uppercase text-sm my-3">
             PLACES WE HAVE BEEN RECOGNISED
           </p>
           <h1
-            class="font-neue text-black md:text-[56px] py-3 mt-4 text-2xl md:leading-[2rem]"
+            class="font-neue font-medium text-black md:text-[56px] py-3 mt-4 text-4xl md:leading-[2rem]"
           >
             Universal Product Features
           </h1>
-          <p class="text-[#7C7C7C] text-base">
+          <p class="text-[#7C7C7C] font-inter text-base">
             5 A creative, curious crew building things we believe in—together.
           </p>
           <div>
             <h2
-              class="font-neue text-black md:text-4xl py-6 mt-8 text-2xl md:leading-[2rem]"
+              class="font-neue font-medium text-black md:text-4xl py-6 mt-8 text-2xl md:leading-[2rem]"
             >
               Quality Certifications
             </h2>
-            <ul class="font-neue">
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>CE Marking: </b>European Conformity for applicable medical devices
+            <ul>
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">CE Marking: </span>European Conformity for
+                applicable medical devices
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>ISO Standards:</b> Quality management system compliance
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">ISO Standards:</span> Quality management system
+                compliance
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>FDA Approval: </b>US regulatory approval for relevant products
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">FDA Approval: </span>US regulatory approval for
+                relevant products
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>Nigerian Standards:</b> Local regulatory compliance certification
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">Nigerian Standards:</span> Local regulatory
+                compliance certification
               </li>
             </ul>
             <h2
-              class="font-neue text-black md:text-4xl py-6 mt-8 text-2xl md:leading-[2rem]"
+              class="font-neue font-medium text-black text-4xl py-6 mt-8 md:leading-[2rem]"
             >
               Ordering Process
             </h2>
-            <ul class="font-neue">
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>Consultation:</b> Product selection guidance from our technical team
+            <ul>
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">Consultation:</span> Product selection guidance
+                from our technical team
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>Purchase Order: </b>Formal order processing and confirmation
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">Purchase Order: </span>Formal order processing and
+                confirmation
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b> Delivery:</b> Nigeria-wide distribution with tracking
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold"> Delivery:</span> Nigeria-wide distribution with
+                tracking
               </li>
-              <li class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base">
-                <b>Support: </b> Installation, training, and after-sales service
+              <li
+                class="bg-gray-100 py-4 my-4 rounded-lg px-4 text-base font-neue font-medium"
+              >
+                <span class="font-bold">Support: </span> Installation, training, and
+                after-sales service
               </li>
             </ul>
           </div>

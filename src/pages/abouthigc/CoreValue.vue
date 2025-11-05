@@ -4,9 +4,9 @@
       <div class="grid grid-cols-1 md:grid-cols-1">
         <div class="">
           <p class="text-[#7C7C7C] font-mono text-sm my-4">CORE VALUES</p>
-          <h1 class="font-neue md:text-[56px] text-2xl md:leading-[4rem]">
+          <h1 class="font-neue md:text-[56px] font-medium text-4xl md:leading-[4rem]">
             Our Core Values in Action
-            <p class="text-[#7C7C7C] md:text-base text-sm">
+            <p class="text-[#7C7C7C] text-base font-inter">
               Our clients trust HIGC because they know every solution meets the highest
               professional standards
             </p>
@@ -38,12 +38,12 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue my-4">Excellence</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue my-4">Excellence</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 We uphold the highest ethical standards in all our practices and
                 partnerships.
               </p>
-              <ul class="list-disc list-inside text-sm mt-2 text-[#7C7C7C]">
+              <ul class="list-disc list-inside font-inter text-sm mt-2 text-[#7C7C7C]">
                 <li>Rigorous quality control in all manufactured medical devices</li>
                 <li>Continuous professional development for all team members</li>
                 <li>
@@ -77,12 +77,12 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue my-4">Compassion</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue my-4">Compassion</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 We are intentional about supporting the well-being of our clients,
                 employees, and the communities we serve.
               </p>
-              <ul class="list-disc list-inside text-sm mt-2 text-[#7C7C7C]">
+              <ul class="list-disc list-inside font-inter text-sm mt-2 text-[#7C7C7C]">
                 <li>Free medical outreach programs in underserved communities</li>
                 <li>Sliding scale pricing for small healthcare facilities</li>
                 <li>Employee wellness programs and professional development support</li>
@@ -112,12 +112,12 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue my-4">Integrity</p>
+              <p class="text-2xl font-medium text-black font-neue my-4">Integrity</p>
               <p class="text-sm text-[#7C7C7C]">
                 We are committed to delivering high-quality healthcare services and
                 solutions.
               </p>
-              <ul class="list-disc list-inside text-sm mt-2 text-[#7C7C7C]">
+              <ul class="list-disc font-inter list-inside text-sm mt-2 text-[#7C7C7C]">
                 <li>Transparent pricing and service delivery processes</li>
                 <li>Honest assessment of client needs without overselling</li>
                 <li>Ethical sourcing of all medical supplies and equipment</li>
@@ -147,11 +147,11 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue my-3">Collaboration</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue my-3">Collaboration</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 We build strong partnerships with clients and other stakeholders.
               </p>
-              <ul class="list-disc list-inside text-sm my-4 text-[#7C7C7C]">
+              <ul class="list-disc list-inside font-inter text-sm my-4 text-[#7C7C7C]">
                 <li>Joint ventures with international healthcare manufacturers</li>
                 <li>Partnership-based approach to community health programs</li>
                 <li>
@@ -186,8 +186,8 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-4">Impact</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue mt-4">Impact</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 As a social enterprise, we prioritize impact over profit.
               </p>
               <ul class="list-disc list-inside text-[15px] mt-2 text-[#7C7C7C]">
@@ -238,12 +238,12 @@
                   </defs>
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-4">Sustainability</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue mt-4">Sustainability</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 We focus on long-term health outcomes and sustainable healthcare
                 practices.
               </p>
-              <ul class="list-disc list-inside text-sm mt-2 text-[#7C7C7C]">
+              <ul class="list-disc list-inside font-inter text-sm mt-2 text-[#7C7C7C]">
                 <li>Train-the-trainer programs that build local capacity</li>
                 <li>Environmental considerations in all product manufacturing</li>
                 <li>Financial sustainability models for community health programs</li>
@@ -275,12 +275,12 @@
                   />
                 </svg>
               </span>
-              <p class="text-2xl text-black font-neue mt-4">Innovation</p>
-              <p class="text-sm text-[#7C7C7C]">
+              <p class="text-2xl font-medium text-black font-neue mt-4">Innovation</p>
+              <p class="text-sm font-inter text-[#7C7C7C]">
                 We embrace technology and creative solutions to tackle healthcare
                 challenges.
               </p>
-              <ul class="list-disc list-inside text-sm mt-2 text-[#7C7C7C]">
+              <ul class="list-disc list-inside font-inter text-sm mt-2 text-[#7C7C7C]">
                 <li>
                   Development of the HIGC Calibrated Maternity Drape for postpartum
                   hemorrhage prevention
@@ -304,10 +304,10 @@
           <p class="text-[#7C7C7C] font-mono uppercase text-sm">
             Living Our Values Daily
           </p>
-          <h1 class="font-neue text-black md:text-4xl text-2xl md:leading-[4rem]">
+          <h1 class="font-neue text-black text-4xl font-medium md:leading-[4rem]">
             Join Our Mission
           </h1>
-          <p class="text-[#7C7C7C] text-base md:pr-[18rem]">
+          <p class="text-[#7C7C7C] font-inter text-base md:pr-[18rem]">
             Ready to be part of healthcare transformation? Whether as a partner, client,
             or team member, discover how HIGC's values-driven approach can amplify your
             impact in African healthcare.
