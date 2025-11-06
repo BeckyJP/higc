@@ -17,7 +17,7 @@
           <p class="text-[#7C7C7C] leading-[1.5rem] text-base py-4">
             Led by award-winning Dr. Owen Omo-Ojo, we provide innovative solutions.
           </p>
-          <div class="flex flex-wrap gap-4 mt-2">
+          <div class="flex flex-wrap gap-3 mt-2">
             <BaseButton> Our Impact Stories </BaseButton>
             <BaseButton variant="secondary"> Partnership Opportunities </BaseButton>
           </div>
@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6 my-10">
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame1.webp"
@@ -123,7 +123,7 @@
                 precision using cutting-edge forecasting tools.
               </p>
             </div>
-            <div class="flex md:flex-nowrap flex-wrap gap-4">
+            <div class="flex md:flex-nowrap flex-wrap gap-3">
               <div class="bg-gray-100 p-4 rounded-2xl">
                 <p class="font-mono uppercase text-md">3.Flow Insights</p>
                 <p class="text-black font-neue font-medium text-2xl mt-16 mb-4">

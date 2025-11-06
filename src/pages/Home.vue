@@ -35,7 +35,7 @@
         <p class="font-normal font-inter text-md text-[#7C7C7C]">
           We provide comprehensive quality healthcare solutions
         </p>
-        <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] mt-8 gap-4">
+        <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] mt-8 gap-3">
           <div class="bg-gray-100 rounded-lg">
             <img
               src="/images/home/higc3.webp"
@@ -69,7 +69,7 @@
           </div>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 md:py-4 mt-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3 md:py-4 mt-6">
           <div class="bg-gray-100 rounded-lg">
             <img
               src="/images/home/higc4.webp"
@@ -141,7 +141,7 @@
         alt="HIGC image"
         class="w-full h-auto object-container md:object-cover"
       />
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:py-4 md:mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-3 md:py-4 md:mt-6">
         <div class="md:py-4 md:border-t-4 md:border-black">
           <span
             ><svg
@@ -234,7 +234,7 @@
     </div>
     <section class="mt-10 py-12 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
           <div class="md:p-4 md:py-4 py-6">
             <h3 class="font-mono text-sm uppercase text-[#7C7C7C]">Leadership</h3>
             <p
@@ -280,7 +280,7 @@
         Stay ahead with curated insights, resources, tools, and more—handpicked to spark
         your creativity and elevate your work.
       </p>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mt-6">
         <div class="text-center">
           <div class="bg-gray-100 rounded-t-2xl p-6">
             <h3 class="font-neue font-medium text-[22px]">

@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
-      <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-1 gap-3-4 py-4 mt-6">
         <div>
           <p class="font-mono uppercase text-sm text-[#7C7C7C]">
             Empowering Healthcare Workers Across Africa
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6 md:my-8 px-8">
-      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-4 gap-2">
+      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-3 gap-2">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame4.webp"
@@ -56,14 +56,14 @@
             resources, and evidence-based protocols
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div class="">
             <img
               src="/HIGCImages/Frame9.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-3 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
                 <p class="text-black font-medium text-lg font-neue mt-2">
@@ -101,14 +101,14 @@
             procedures, and prevention strategies.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div class="p-4">
             <img
               src="/HIGCImages/Frame11.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6 mt-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-3 mt-4">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-base text-[#ABABAB]">01</p>
                 <p class="text-black text-lg font-medium font-neue mt-2">
@@ -137,7 +137,7 @@
         <h1 class="font-inter font-medium text-black text-4xl pt-4 md:leading-[2rem]">
           Customized Solutions
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 md:my-4 my-2">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-3 md:my-4 my-2">
           <p class="text-base mt-2 font-inter font-normal leading-[2rem] md:w-[600px]">
             <b>Train-the-Trainer Programs:</b> Building local training capacity with
             curriculum development, certification maintenance, and quality assurance
@@ -155,7 +155,7 @@
         <h1 class="font-inter font-medium text-black text-4xl mt-4 md:leading-[2rem]">
           Enrollment Options
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-3 md:gap-4 my-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 md:gap-3 my-8">
           <div class="bg-gray-100 p-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-[#ABABAB]">01</p>
             <div class="mt-16 font-inter">

@@ -17,7 +17,7 @@
             equipment and devices, sourced from trusted manufacturers and backed by CE
             certifications where applicable.
           </p>
-          <div class="flex flex-wrap gap-4 mt-10">
+          <div class="flex flex-wrap gap-3 mt-10">
             <BaseButton> Contact Us to Learn More </BaseButton>
             <BaseButton variant="secondary"> Partnership Opportunities </BaseButton>
           </div>
@@ -36,7 +36,7 @@
             efficient practice.
           </p>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
           <div>
             <img
               src="/HIGCImages/products/Product1.png"
@@ -194,7 +194,7 @@
             daily demands.
           </p>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
           <div>
             <img
               src="/HIGCImages/products/Product11.png"
@@ -436,7 +436,7 @@
             environment.
           </p>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
           <div>
             <img
               src="/HIGCImages/products/safety1.png"
@@ -552,7 +552,7 @@
             real-world situations.
           </p>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
           <div>
             <img
               src="/HIGCImages/products/Equ1.png"

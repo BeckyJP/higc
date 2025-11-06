@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-6 pt-6">
-      <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-1 gap-3 py-4 mt-6">
         <div>
           <p class="font-mono text-sm uppercase text-[#7C7C7C]">
             Bringing Healthcare to Every Community
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6">
-      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-4 gap-2">
+      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-3 gap-2">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/card8.webp"
@@ -56,14 +56,14 @@
             communities.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div>
             <img
               src="/HIGCImages/card11.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-3">
               <div class="p-4">
                 <p class="font-mono uppercase text-[#ABABAB]">01</p>
                 <p class="font-bold text-lg text-black font-neue mt-2">
@@ -124,7 +124,7 @@
           alt="HIGC image"
           class="h-auto w-full object-container md:object-cover rounded-b"
         />
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-6 py-4 mt-6">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-3 py-4 mt-6">
           <div class="py-4 border-t-4 border-black">
             <h3 class="font-neue font-medium text-lg">Edo State</h3>
             <p class="text-[#7C7C7C] font-inter text-base">

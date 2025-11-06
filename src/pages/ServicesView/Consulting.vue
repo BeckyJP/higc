@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
-      <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-1 gap-3 py-4 mt-6">
         <div>
           <p class="uppercase text-mono text-sm py-3 text-[#7C7C7C]">
             Complete Healthcare System Solutions
@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
-      <div class="grid grid-cols-[2fr_3fr_2fr] gap-4">
+      <div class="grid grid-cols-[2fr_3fr_2fr] gap-3">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame8.webp"
@@ -55,14 +55,14 @@
             facility’s needs.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div class="">
             <img
               src="/HIGCImages/Frame25.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 pt-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 md:gap-3 pt-4">
               <div class="p-4">
                 <p class="font-mono uppercase text-[#ABABAB]">01</p>
                 <p class="font-bold text-black text-lg font-neue py-2">Hospitals:</p>
@@ -103,7 +103,7 @@
         <h1 class="text-black font-medium font-inter text-4xl">
           Specialized Consulting Services
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-2 md:gap-6 md:my-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 md:gap-3 md:my-8">
           <div class="mt-4">
             <span
               ><svg
@@ -188,7 +188,7 @@
     <div class="bg-white py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <h1 class="font-neue text-black font-medium my-4 text-4xl">Why Choose HIGC?</h1>
-        <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 md:my-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 md:gap-3 md:my-8">
           <div class="bg-gray-100 px-4 py-6 rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-xs text-[#ABABAB]">01</p>
             <div class="mt-20 pt-10">

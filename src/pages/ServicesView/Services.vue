@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 my-10">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 py-4 mt-6">
         <div>
           <p class="font-mono text-sm text-[#7C7C7C] my-2">Main Services</p>
           <h1
@@ -19,7 +19,7 @@
             delivers complete healthcare consulting Nigeria services through our five
             specialized pillars of impact.
           </p>
-          <div class="flex flex-wrap gap-4 my-8">
+          <div class="flex flex-wrap gap-3 my-8">
             <BaseButton> Contact Us to Learn More </BaseButton>
             <BaseButton variant="secondary"> Partnership Opportunities </BaseButton>
           </div>
@@ -49,7 +49,7 @@
             grassroots to clinical levels.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
           <div class="bg-gray-100 rounded-2xl">
             <img
               src="/HIGCImages/service1.webp"
@@ -218,7 +218,7 @@
         >
           Why Choose HIGC?
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 my-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-3 my-8">
           <div class="bg-gray-100 p-4 rounded-2xl">
             <p class="font-mono uppercase">01</p>
             <div class="mt-20 font-inter">

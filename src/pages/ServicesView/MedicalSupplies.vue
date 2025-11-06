@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
-      <div class="grid grid-cols-1 md:grid-cols-1 gap-4 py-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-1 gap-3 py-4 mt-6">
         <div>
           <p class="font-mono uppercase text-sm text-[#7C7C7C]">
             Quality Equipment for Every Industry
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="max-w-screen-xl mx-auto px-6 md:my-6">
-      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-4 gap-2">
+      <div class="grid grid-cols-[2fr_3fr_2fr] md:gap-3 gap-2">
         <div class="text-center rounded-2xl">
           <img
             src="/HIGCImages/Frame12.webp"
@@ -56,14 +56,14 @@
             needs.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div class="">
             <img
               src="/HIGCImages/Frame15.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-3">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono uppercase text-lg text-[#ABABAB]">01</p>
                 <p
@@ -113,14 +113,14 @@
             industries.
           </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-1 md:gap-3">
           <div class="">
             <img
               src="/HIGCImages/Frame16.webp"
               alt="HIGC image"
               class="h-auto w-full object-container md:object-cover rounded-b"
             />
-            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 md:gap-3">
               <div class="p-4 rounded-2xl">
                 <p class="font-mono text-lg uppercase text-[#ABABAB]">01</p>
                 <p class="text-black text-lg font-bold mt-2">Oil & Gas:</p>
@@ -156,7 +156,7 @@
         <h1 class="font-inter font-medium text-black text-[40px] pt-4 md:leading-[2rem]">
           Quality & Compliance Excellence
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-1 gap-4 my-4">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-3 my-4">
           <p
             class="text-base mt-2 font-inter font-medium font-normal leading-[1.8rem] md:w-[600px]"
           >
@@ -175,7 +175,7 @@
         <h1 class="font-neue font-medium text-black text-4xl my-4 md:leading-[2rem]">
           Why Choose HIGC?
         </h1>
-        <div class="grid grid-cols-1 md:grid-cols-4 md:gap-4 md:my-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 md:gap-3 md:my-8">
           <div class="bg-gray-100 p-4 text-base rounded-2xl my-3 md:my-0">
             <p class="font-mono uppercase text-[#ABABAB]">01</p>
             <div class="mt-20 pt-6 font-inter">

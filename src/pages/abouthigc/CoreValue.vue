@@ -16,7 +16,7 @@
     </div>
     <section class="bg-whit md:py-6">
       <div class="max-w-screen-xl mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
           <div class="bg-gray-100 rounded-2xl">
             <img
               src="/HIGCImages/card1.webp"
@@ -312,7 +312,7 @@
             or team member, discover how HIGC's values-driven approach can amplify your
             impact in African healthcare.
           </p>
-          <div class="flex flex-wrap gap-4 md:mt-10 mt-6 mb-8">
+          <div class="flex flex-wrap gap-3 md:mt-10 mt-6 mb-8">
             <BaseButton> Contact Us to Learn More </BaseButton>
             <BaseButton variant="secondary">
               Explore Partnership Opportunities

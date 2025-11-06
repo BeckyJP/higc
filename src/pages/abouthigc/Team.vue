@@ -27,7 +27,7 @@
         <h2 class="text-[40px] py-6 font-medium text-black font-neue">
           Our Growing Team
         </h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
           <div class="rounded-2xl">
             <img
               src="/HIGCImages/Team1.webp"
