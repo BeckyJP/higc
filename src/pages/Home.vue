@@ -1,7 +1,7 @@
 <template>
   <DefaultLayout>
     <section class="max-w-screen-xl mx-auto px-6 md:pt-16">
-      <p class="text-sm text-[#7C7C7C] uppercase mb-4 font-mono">
+      <p class="text-sm text-[#ABABAB] uppercase mb-4 font-mono">
         Innovating Healthcare, Impacting Lives
       </p>
       <div>
@@ -28,7 +28,7 @@
     </section>
     <section class="md:mt-10 py-10 py-4 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6 pt-12">
-        <p class="font-mono text-sm uppercase text-[#7C7C7C]">Stay updated</p>
+        <p class="font-mono text-sm uppercase text-[#ABABAB]">Stay updated</p>
         <h3 class="md:text-4xl text-[36px] font-medium font-neue md:my-4 my-2">
           What we do
         </h3>
@@ -128,7 +128,7 @@
       </div>
     </section>
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
-      <p class="font-mono text-sm uppercase py-2 text-[#7C7C7C]">Our Impact</p>
+      <p class="font-mono text-sm uppercase py-2 text-[#ABABAB]">Our Impact</p>
       <h3 class="md:text-4xl font-medium text-[36px] font-neue">
         Making a Difference Where It Matters Most
       </h3>
@@ -234,19 +234,20 @@
     </div>
     <section class="mt-10 py-12 bg-darkGray">
       <div class="max-w-screen-xl mx-auto px-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        <div class="grid grid-cols-1 md:grid-cols-[3fr_2fr] gap-3">
           <div class="md:p-4 md:py-4 py-6">
-            <h3 class="font-mono text-sm uppercase text-[#7C7C7C]">Leadership</h3>
+            <h3 class="font-mono text-sm uppercase text-[#ABABAB]">Leadership</h3>
             <p
-              class="text-[#ABABAB] font-medium md:text-[40px] font-inter text-[36px] leading-[2.8rem] md:py-2 my-2"
+              class="text-[#ABABAB] md:pr-16 font-medium md:text-[40px] font-neue text-[36px] leading-[2.8rem] md:py-2 my-2"
             >
-              <span class="text-black font-medium">Led by Excellence: </span>
-              Award-winning public health expert with 14+ years of experience.
+              <span class="text-black font-medium font-neue">Led by Excellence: </span>
+              Award-winning public health expert with 14+ years <br />
+              of experience.<br />
               <span class="font-mono"> 2025 </span> Sir Ahmadu Bello Sardauna
               Distinguished Platinum Award winner, recognized as an Icon of Societal
               Transformation.
             </p>
-            <div class="md:mt-28 mt-8 md:pt-16">
+            <div class="md:mt-32 mt-8 md:pt-16">
               <BaseButton variant="primary" show-arrow icon-position="right"
                 ><router-link to="/team">Meet Our Team </router-link></BaseButton
               >
@@ -272,7 +273,7 @@
         </div>
       </div>
     </section>
-    <div class="max-w-screen-xl mx-auto px-6 md:my-10 md:py-16 my-12">
+    <div class="max-w-screen-xl mx-auto px-6 md:my-10 md:py-10 my-12">
       <h2 class="md:text-4xl font-medium text-[36px] font-neue">
         Why Partner With HIGC?
       </h2>

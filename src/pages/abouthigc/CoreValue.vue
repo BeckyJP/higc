@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-1">
         <div class="">
-          <p class="text-[#7C7C7C] font-mono text-sm my-4">CORE VALUES</p>
+          <p class="text-[#ABABAB] font-mono text-sm my-4">CORE VALUES</p>
           <h1 class="font-neue md:text-[56px] font-medium text-4xl md:leading-[4rem]">
             Our Core Values in Action
             <p class="text-[#7C7C7C] text-base font-inter">
@@ -301,7 +301,7 @@
     <div class="bg-gray-100 my-10 py-10">
       <div class="max-w-screen-xl mx-auto">
         <div class="pt-6 md:px-8 px-2">
-          <p class="text-[#7C7C7C] font-mono uppercase text-sm">
+          <p class="text-[#ABABAB] font-mono uppercase text-sm">
             Living Our Values Daily
           </p>
           <h1 class="font-neue text-black text-4xl font-medium md:leading-[4rem]">

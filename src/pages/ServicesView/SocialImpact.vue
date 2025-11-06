@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-6 pt-6">
       <div class="grid grid-cols-1 md:grid-cols-1 gap-3 py-4 mt-6">
         <div>
-          <p class="font-mono text-sm uppercase text-[#7C7C7C]">
+          <p class="font-mono text-sm uppercase text-[#ABABAB]">
             Bringing Healthcare to Every Community
           </p>
           <h1

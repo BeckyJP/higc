@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10 my-8">
       <div class="grid grid-cols-1 md:grid-cols-1 py-4 mt-6">
         <div>
-          <p class="text-[#7C7C7C] font-mono text-sm">MEET THE TEAM</p>
+          <p class="text-[#ABABAB] font-mono text-sm">MEET THE TEAM</p>
           <h1
             class="font-neue font-medium md:text-[56px] pt-4 text-4xl md:leading-[4rem]"
           >

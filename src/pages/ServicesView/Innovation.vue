@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-6 md:my-10">
       <div class="grid grid-cols-1 md:grid-cols-1 gap-3 py-4 mt-6">
         <div>
-          <p class="font-mono text-sm uppercase text-[#7C7C7C]">
+          <p class="font-mono text-sm uppercase text-[#ABABAB]">
             Nigerian-Made Medical Solutions for African Healthcare
           </p>
           <h1 class="font-neue md:text-[56px] text-4xl mt-2 md:leading-[4rem]">

@@ -183,7 +183,7 @@
     <section class="bg-white md:py-10 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] uppercase text-sm md:my-3">Stay Stocked</p>
+          <p class="text-[#ABABAB] font-mono uppercase text-sm md:my-3">Stay Stocked</p>
           <h1
             class="font-neue font-medium text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
           >
@@ -425,7 +425,7 @@
     <section class="bg-darkGray md:py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] text-mono uppercase text-sm my-3">Stay Protected</p>
+          <p class="text-[#ABABAB] text-mono uppercase text-sm my-3">Stay Protected</p>
           <h1
             class="font-neue font-medium text-black text-4xl py-3 mt-2 md:leading-[2rem]"
           >
@@ -541,7 +541,7 @@
     <div class="bg-white md:py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] font-mono uppercase text-sm my-3">Stay Ready</p>
+          <p class="text-[#ABABAB] font-mono uppercase text-sm my-3">Stay Ready</p>
           <h1
             class="font-neue font-medium text-black mtext-4xl py-3 mt-2 md:leading-[2rem]"
           >
@@ -587,7 +587,7 @@
     <section class="bg-darkGray md:py-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] font-mono uppercase text-sm my-3">
+          <p class="text-[#ABABAB] font-mono uppercase text-sm my-3">
             PLACES WE HAVE BEEN RECOGNISED
           </p>
           <h1

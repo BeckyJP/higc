@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-6 my-10">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3 py-4 mt-6">
         <div>
-          <p class="font-mono text-sm text-[#7C7C7C] my-2">Main Services</p>
+          <p class="font-mono text-sm text-[#ABABAB] my-2">Main Services</p>
           <h1
             class="font-neue font-medium md:pr-[3rem] md:text-[56px] text-4xl md:leading-[4rem]"
           >
@@ -38,7 +38,7 @@
     <section class="bg-darkGray md:py-10 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] font-mono uppercase text-sm my-4">Stay updated</p>
+          <p class="text-[#ABABAB] font-mono uppercase text-sm my-4">Stay updated</p>
           <h1
             class="font-neue font-medium text-black text-4xl py-3 mt-4 md:leading-[2rem]"
           >

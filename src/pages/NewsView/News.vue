@@ -6,7 +6,7 @@
           <h3 class="md:text-4xl w-40 md:leading-[3rem] text-3xl font-neue">
             News & Updates
           </h3>
-          <p class="text-gray-500">See what HIGC is up to.</p>
+          <p class="text-[#ABABAB] font-mono">See what HIGC is up to.</p>
         </div>
         <div>
           <div class="bg-darkGray p-4 my-4 rounded-lg">
