@@ -69,7 +69,7 @@
           </div>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-3 md:py-3">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3 py-3">
           <div class="bg-gray-100 rounded-lg">
             <img
               src="/images/home/higc4.webp"
