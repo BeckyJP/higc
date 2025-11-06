@@ -4,14 +4,14 @@
       <div class="grid grid-cols-1 md:grid-cols-2 py-4 mt-6">
         <div>
           <p class="uppercase text-sm text-[#ABABAB]">Main Services</p>
-          <h1 class="font-neue font-medium md:text-6xl my-3 text-4xl md:leading-[3.5rem]">
+          <h1 class="font-neue font-medium md:text-6xl my-3 text-4xl md:leading-[3.8rem]">
             Essential Medical Technology for
+            <span class="text-[#ABABAB] font-neue font-medium md:text-6xl text-4xl"
+              >Superior Healthcare</span
+            >
           </h1>
-          <span class="text-[#ABABAB] font-neue font-medium md:text-6xl text-4xl"
-            >Superior Healthcare</span
-          >
         </div>
-        <div class="pt-12 md:px-8">
+        <div class="md:pt-12 pt-6 md:px-8">
           <p class="text-[#7C7C7C] font-inter leading-[1.5rem] text-base">
             Transform your healthcare facility with our comprehensive range of medical
             equipment and devices, sourced from trusted manufacturers and backed by CE
@@ -183,7 +183,7 @@
     <section class="bg-white md:py-10 my-10">
       <div class="max-w-screen-xl mx-auto px-6">
         <div class="mb-10">
-          <p class="text-[#7C7C7C] uppercase text-sm my-3">Stay Stocked</p>
+          <p class="text-[#7C7C7C] uppercase text-sm md:my-3">Stay Stocked</p>
           <h1
             class="font-neue font-medium text-black md:text-4xl py-3 mt-2 text-2xl md:leading-[2rem]"
           >
