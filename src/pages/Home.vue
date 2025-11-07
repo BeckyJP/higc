@@ -247,13 +247,13 @@
               Distinguished Platinum Award winner, recognized as an Icon of Societal
               Transformation.
             </p>
-            <div class="md:mt-32 mt-8 md:pt-16">
+            <div class="md:mt-16 mt-8 md:pt-16">
               <BaseButton variant="primary" show-arrow icon-position="right"
                 ><router-link to="/team">Meet Our Team </router-link></BaseButton
               >
             </div>
           </div>
-          <div class="bg-gray-100 rounded-2xl md:order-last mt-12 md:mt-0 order-first">
+          <div class="md:order-last mt-12 md:mt-0 order-first">
             <img
               src="/images/home/ceo.webp"
               alt="HIGC image"
@@ -263,7 +263,7 @@
               alt="HIGC image"
               class="w-full h-auto object-container md:hidden md:block md:object-cover rounded-t-2xl"
             />
-            <div class="p-4 md:my-2">
+            <div class="p-6 bg-gray-100 rounded-b-2xl">
               <p class="text-2xl font-neue font-medium">Dr. Owen Omo-Ojo (MD, MPH)</p>
               <p class="text-[16px] font-inter text-[#7C7C7C]">
                 Founder & Managing Director
